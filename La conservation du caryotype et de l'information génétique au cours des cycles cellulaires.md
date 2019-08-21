@@ -1,4 +1,4 @@
-# La conservation du cayotype et de l’information génétique au cours des cycles cellulaires
+# La conservation du caryotype et de l’information génétique au cours des cycles cellulaires
 
 Le développement d’un être vivant pluricellulaire à partir d’une cellule oeuf nécessite une succession de divisions cellulaires appelées mitoses ainsi que la différenciation des cellules en types cellulaires spécifiques des organes qu’elles constituent. Les molécules d’ADN, constituant principal des chromosomes et support de l’information génétique, sont intégralement transmises au cours de la mitose de la cellule mère aux deux cellules filles. Toutes les cellules de l'organisme possèdent donc le même caryotype et la même information génétique.
 
