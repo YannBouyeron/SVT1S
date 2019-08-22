@@ -9,5 +9,5 @@ Le cycle cellulaire est l’ensemble des modifications qui affectent une cellule
 Les [mesures](https://ipfs.io/ipfs/QmaEerNc9isnYPmmzHuac3NPSTC6g8eyzXv1Q2LuBgqy8N) de la quantité d’ADN par cellule au cours du temps permettent de [représenter graphiquement](https://ipfs.io/ipfs/QmUohw7WwJsRHWSyG2Mpbvo6ZPTjcpdZqzLWWjpoukZL7B) ses variations. Exploitez ce graphique pour émettre une hypothèse relative au problème posé. Repérer ensuite les phases G1, S, G2, M sur votre graphique.
 
 <p align="center">
-  <img src="adncycle.png">
+  <img src="Doc/adncycle.png">
 </p>
