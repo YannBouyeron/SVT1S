@@ -32,8 +32,12 @@ Ils élaborent une [expérience](http://svt.ac-dijon.fr/schemassvt/IMG/meselson_
 
 ### Le mécanisme moléculaire de la réplication
 
-> La réplication débute par l’ouverture localisée de la molécule d’ADN, à plusieurs endroits ou yeux de réplication. Chacun des deux brins parentaux d'une molécule d'ADN dite mère sert de matrice pour la synthèse d'un nouveau brin complémentaire : au fur et à mesure de l’ouverture de la molécule d’ADN, de nouveaux nucléotides s’apparient avec les nucléotides de chaque brin servant de modèle grâce à la complémentarité des bases azotées. L’ADN-polymérase est l’enzyme qui catalyse la polymérisation de ces nucléotides.
+> La réplication débute par l’ouverture localisée de la molécule d’ADN, à plusieurs endroits ou [yeux de réplication](http://raymond.rodriguez1.free.fr/Documents/Cellule-genome/replication3.png). Chacun des deux brins parentaux d'une molécule d'ADN dite mère sert de matrice pour la synthèse d'un nouveau brin complémentaire : au fur et à mesure de l’ouverture de la molécule d’ADN, de nouveaux nucléotides s’apparient avec les nucléotides de chaque brin servant de modèle grâce à la complémentarité des bases azotées. L’ADN-polymérase est l’enzyme qui catalyse la polymérisation de ces nucléotides.
 >
 > La polymérisation progresse ainsi de part et d’autre de l’origine de la réplication : l’œil de réplication s’allonge à mesure que les 2 brins d’ADN parentaux se séparent. On obtient ainsi deux molécules d'ADN filles chacune constituée de l'association d'un brin parental et d'un brin néo-synthétisé, la réplication est semi-conservative. Les deux molécules d’ADN filles obtenues sont donc identiques (même séquence nucléotidique, donc même information génétique) entre elles et identiques à la molécule mère. 
 >
 > À l'issue de la réplication, chaque molécule d'ADN est alors présente en deux exemplaires dans le noyau de la cellule; il existe donc deux lots d'information génétique identiques dans la cellule.
+
+**Schématiser la réplication de l'ADN au niveau d'une fourche de réplication. Représenter les enzymes impliquées (et leur sens de progression), les brins parentaux en bleu, les brins néo-synthétisés en rouge, et la séquence nucléotidique de chaque brin.**
+
+**Schématiser la réplication de l'ADN au niveau de deux yeux de réplication. Utilisez la même symbolisation que précedement mais sans indiquer la séquence.**
