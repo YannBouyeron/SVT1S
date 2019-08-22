@@ -46,7 +46,7 @@ La polymérisation progresse ainsi de part et d’autre de l’origine de la ré
 
 Lors de la réplication de l'ADN, chaque brin d'une molécule d'ADN sert de matrice pour la synthèse d'un nouveau brin complémentaire; cette réplication semi-conservative aboutie donc à la formation de deux molécules d'ADN identiques entre elles et identiques à la molécule d'ADN mère. La réplication de l'ADN permet ainsi l'obtention de deux lots d'informations génétiques identiques.
 
-***<p align="center">Comment le matériel génétique est-il transmit aux cellules filles lors de la mitose ?</p>***
+***<p align="center">Comment le matériel génétique est-il transmis aux cellules filles lors de la mitose ?</p>***
 
 **Matériel:**
 
