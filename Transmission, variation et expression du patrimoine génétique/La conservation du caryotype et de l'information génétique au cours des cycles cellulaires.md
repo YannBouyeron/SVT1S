@@ -19,4 +19,4 @@ En 1958, Meselson & Sthal cherchent à comprendre le mécanisme permettant la r�
 
 > "Nous avons cherché à savoir si l’ADN se réplique de façon semi-conservative, de façon dispersive ou de façon conservative. Autrement dit, à chaque division, est-ce que les deux brins se séparent, restent sous la forme simple brin pendant un certain temps puis se retrouvent chacun associés à un brin nouvellement synthétisé ? Ou bien est-ce qu’ils se disloquent et sont ensuite dispersés ? Ou bien est-ce que les deux brins restent indéfiniment accolés et permettent la synthèse, à coté d’eux, d’une molécule dont les deux brins sont nouvellement synthétisés ?" *Mesleson & Stahl (1958)*
 
-Ils élaborent une [expérience](http://svt.ac-dijon.fr/schemassvt/IMG/meselson_stahl.gif") pour éprouver la validité de leurs modèles.
+Ils élaborent une [expérience](http://svt.ac-dijon.fr/schemassvt/IMG/meselson_stahl.gif) pour éprouver la validité de leurs modèles.
