@@ -74,7 +74,7 @@ Lors de la réplication de l'ADN, chaque brin d'une molécule d'ADN sert de matr
 
 - Proposez un ordre chronologique possible permettant de classer logiquement les 4 étapes de la mitose. Aidez vous éventuellement de cette [vidéo](https://youtu.be/Y_uv5tzyKvY).
 
-- Réalisez des [schémas interprétatifs](https://ipfs.io/ipfs/Qmag1GKBhLAv6eANPau1rFHBzDn6dhsMNLXfjFeAvuDY5N) de chacune des 4 phases de la mitose. Prendre l'exemple d'une cellule [diploïde](https://ipfs.io/ipfs/QmfVE52V2nVCtvQqzbvGP48rjZMwsdi2thG2Dcj7SbYsZh) à 2n = 4 chromosomes soit 2 paires de chromosomes homologues. Respecter la symbolisation imposée.
+- Réalisez des [schémas interprétatifs](https://ipfs.io/ipfs/Qmag1GKBhLAv6eANPau1rFHBzDn6dhsMNLXfjFeAvuDY5N) de chacune des 4 phases de la mitose. Prendre l'exemple d'une cellule [diploïde](https://ipfs.io/ipfs/QmYVftRkuvJHPdbE9pejb3NmXjakumin7BHterVgceWppj) à 2n = 4 chromosomes soit 2 paires de chromosomes homologues. Respecter la symbolisation imposée.
 
 - Annotez vos schémas pour résumer en quelques lignes les modifications importantes de chaque étape.
 
