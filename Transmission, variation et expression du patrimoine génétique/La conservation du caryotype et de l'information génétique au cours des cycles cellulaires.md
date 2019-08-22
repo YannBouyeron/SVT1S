@@ -6,7 +6,9 @@ Le développement d’un être vivant pluricellulaire à partir d’une cellule 
 
 Le cycle cellulaire est l’ensemble des modifications qui affectent une cellule entre sa naissance (par division d’une cellule mère pré-existante), jusqu’à sa propre division.
 
-Les [mesures](https://ipfs.io/ipfs/QmaEerNc9isnYPmmzHuac3NPSTC6g8eyzXv1Q2LuBgqy8N) de la quantité d’ADN par cellule au cours du temps [permettent](https://ipfs.io/ipfs/QmNMXbzUB4JZNbZwgWMpV2trNTUaCdgYKmH3ioLNWgZvgd/adncycle.py) de [représenter graphiquement](https://ipfs.io/ipfs/QmUohw7WwJsRHWSyG2Mpbvo6ZPTjcpdZqzLWWjpoukZL7B) ses variations. Exploitez ce graphique pour émettre une hypothèse relative au problème posé. Repérer ensuite les phases G1, S, G2, M sur votre graphique.
+Les [mesures](https://ipfs.io/ipfs/QmaEerNc9isnYPmmzHuac3NPSTC6g8eyzXv1Q2LuBgqy8N) de la quantité d’ADN par cellule au cours du temps [permettent](https://ipfs.io/ipfs/QmNMXbzUB4JZNbZwgWMpV2trNTUaCdgYKmH3ioLNWgZvgd/adncycle.py) de [représenter graphiquement](https://ipfs.io/ipfs/QmUohw7WwJsRHWSyG2Mpbvo6ZPTjcpdZqzLWWjpoukZL7B) ses variations. 
+
+**Exploitez ce graphique pour émettre une hypothèse relative au problème posé. Repérer ensuite les phases G1, S, G2, M sur votre graphique.**
 
 <p align="center">
   <img src="Doc/adncycle.png">
@@ -21,7 +23,7 @@ En 1958, Meselson & Sthal cherchent à comprendre le mécanisme permettant la r�
 
 Ils élaborent une [expérience](http://svt.ac-dijon.fr/schemassvt/IMG/meselson_stahl.gif) pour éprouver la validité de leurs modèles.
 
- **En tenant compte du protocole mis en œuvre par Meselson et Stahl, envisagez les résultats attendus de chacun des 3 modèles hypothétiques: **
+ **En tenant compte du protocole mis en œuvre par Meselson et Stahl, envisagez les résultats attendus de chacun des 3 modèles hypothétiques:**
  
  - Schématisez les molécules d'ADN obtenues selon chaque modèle hypothétique après une puis 2 réplications dans un milieu dépourvu d'azote 15
  - Estimez après chaque réplication les % de molécules lourdes légères et intermédiaires obtenues.
