@@ -41,3 +41,15 @@ Ils élaborent une [expérience](http://svt.ac-dijon.fr/schemassvt/IMG/meselson_
 **Schématiser la réplication de l'ADN au niveau d'une fourche de réplication. Représenter les enzymes impliquées (et leur sens de progression), les brins parentaux en bleu, les brins néo-synthétisés en rouge, et la séquence nucléotidique de chaque brin.**
 
 **Schématiser la réplication de l'ADN au niveau de deux yeux de réplication. Utilisez la même symbolisation que précedement mais sans indiquer la séquence.**
+
+### Les mécanismes cellulaires de la mitose
+
+Lors de la réplication de l'ADN, chaque brin d'une molécule d'ADN sert de matrice pour la synthèse d'un nouveau brin complémentaire; cette réplication semi-conservative aboutie donc à la formation de deux molécules d'ADN identiques entre elles et identiques à la molécule d'ADN parentale. La réplication de l'ADN permet ainsi l'obtention de deux lots d'informations génétiques identiques.
+
+***<p align="center">Comment le materiel génétique est-il transmit aux cellules filles lors de la mitose ?</p>***
+
+> Materiel: Microscope - Lame d'une coupe longitudinale de racine de jacinthe coloration Feulgen (colore l'ADN en rouge)
+
+**Justifiez l’intérêt de la coloration par la méthode de Feulgen pour la résolution du problème posé.**
+
+
