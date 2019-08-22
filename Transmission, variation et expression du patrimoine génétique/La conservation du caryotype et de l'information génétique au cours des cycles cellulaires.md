@@ -32,24 +32,52 @@ Ils élaborent une [expérience](http://svt.ac-dijon.fr/schemassvt/IMG/meselson_
 
 ### Le mécanisme moléculaire de la réplication
 
-> La réplication débute par l’ouverture localisée de la molécule d’ADN, à plusieurs endroits ou [yeux de réplication](http://raymond.rodriguez1.free.fr/Documents/Cellule-genome/replication3.png). Chacun des deux brins parentaux d'une molécule d'ADN dite mère sert de matrice pour la synthèse d'un nouveau brin complémentaire : au fur et à mesure de l’ouverture de la molécule d’ADN, de nouveaux nucléotides s’apparient avec les nucléotides de chaque brin servant de modèle grâce à la complémentarité des bases azotées. L’ADN-polymérase est l’enzyme qui catalyse la polymérisation de ces nucléotides.
->
-> La polymérisation progresse ainsi de part et d’autre de l’origine de la réplication : l’œil de réplication s’allonge à mesure que les 2 brins d’ADN parentaux se séparent. On obtient ainsi deux molécules d'ADN filles chacune constituée de l'association d'un brin parental et d'un brin néo-synthétisé, la réplication est semi-conservative. Les deux molécules d’ADN filles obtenues sont donc identiques (même séquence nucléotidique, donc même information génétique) entre elles et identiques à la molécule mère. 
->
-> À l'issue de la réplication, chaque molécule d'ADN est alors présente en deux exemplaires dans le noyau de la cellule; il existe donc deux lots d'information génétique identiques dans la cellule.
+La réplication débute par l’ouverture localisée de la molécule d’ADN, à plusieurs endroits ou [yeux de réplication](http://raymond.rodriguez1.free.fr/Documents/Cellule-genome/replication3.png). Chacun des deux brins parentaux d'une molécule d'ADN dite mère sert de matrice pour la synthèse d'un nouveau brin complémentaire : au fur et à mesure de l’ouverture de la molécule d’ADN, de nouveaux nucléotides s’apparient avec les nucléotides de chaque brin servant de modèle grâce à la complémentarité des bases azotées. L’ADN-polymérase est l’enzyme qui catalyse la polymérisation de ces nucléotides.
+
+La polymérisation progresse ainsi de part et d’autre de l’origine de la réplication : l’œil de réplication s’allonge à mesure que les 2 brins d’ADN parentaux se séparent. On obtient ainsi deux molécules d'ADN filles chacune constituée de l'association d'un brin parental et d'un brin néo-synthétisé, la réplication est semi-conservative. Les deux molécules d’ADN filles obtenues sont donc identiques (même séquence nucléotidique, donc même information génétique) entre elles et identiques à la molécule mère. 
+
+À l'issue de la réplication, chaque molécule d'ADN est alors présente en deux exemplaires dans le noyau de la cellule; il existe donc deux lots d'information génétique identiques dans la cellule.
 
 **Schématiser la réplication de l'ADN au niveau d'une fourche de réplication. Représenter les enzymes impliquées (et leur sens de progression), les brins parentaux en bleu, les brins néo-synthétisés en rouge, et la séquence nucléotidique de chaque brin.**
 
 **Schématiser la réplication de l'ADN au niveau de deux yeux de réplication. Utilisez la même symbolisation que précedement mais sans indiquer la séquence.**
 
-### Les mécanismes cellulaires de la mitose
+### Les mécanismes cellulaires de la mitose (TP)
 
-Lors de la réplication de l'ADN, chaque brin d'une molécule d'ADN sert de matrice pour la synthèse d'un nouveau brin complémentaire; cette réplication semi-conservative aboutie donc à la formation de deux molécules d'ADN identiques entre elles et identiques à la molécule d'ADN parentale. La réplication de l'ADN permet ainsi l'obtention de deux lots d'informations génétiques identiques.
+Lors de la réplication de l'ADN, chaque brin d'une molécule d'ADN sert de matrice pour la synthèse d'un nouveau brin complémentaire; cette réplication semi-conservative aboutie donc à la formation de deux molécules d'ADN identiques entre elles et identiques à la molécule d'ADN mère. La réplication de l'ADN permet ainsi l'obtention de deux lots d'informations génétiques identiques.
 
-***<p align="center">Comment le materiel génétique est-il transmit aux cellules filles lors de la mitose ?</p>***
+***<p align="center">Comment le matériel génétique est-il transmit aux cellules filles lors de la mitose ?</p>***
 
-> Materiel: Microscope - Lame d'une coupe longitudinale de racine de jacinthe coloration Feulgen (colore l'ADN en rouge)
+**Matériel:**
 
-**Justifiez l’intérêt de la coloration par la méthode de Feulgen pour la résolution du problème posé.**
+ - Microscope
+ 
+ - Lame d'une coupe longitudinale de racine de jacinthe coloration Feulgen (colore l'ADN en rouge)
 
+**Règles de symbolisation en génétique:**
 
+- Distinction des paires de chromosomes par une différence de taille 
+
+- Distinction des chromosomes homologues par une différence de couleur (un chromosome bleu et un rouge dans chaque paire) 
+
+- Distinction de la chromatine et des chromatides par une différence d'épaisseur de trait (trait fin pour la chromatine, trait épais pour les chromatides)
+
+**Consignes:**
+
+- Justifiez l’intérêt de la coloration par la méthode de Feulgen pour la résolution du problème posé.
+
+- Observez une coupe longitudinale de racine de jacinthe au microscope. Repérez les différents stades (4) de la division, ainsi qu'une cellule interphasique.
+
+- Réalisez un dessin d'observation d'une cellule interphasique. Justifiez la localisation de l'ADN et préciser son [état](https://ipfs.io/ipfs/QmRVmEuyrRk5CNTwLyBi1mNdwGybAT8d4Tqe5VWevfHEgY).
+
+- Réalisez un dessin d'observation d'une des étapes de la division cellulaire. Justifiez la localisation de l'ADN et préciser son [état](https://ipfs.io/ipfs/QmRVmEuyrRk5CNTwLyBi1mNdwGybAT8d4Tqe5VWevfHEgY).
+
+- Proposez un ordre chronologique possible permettant de classer logiquement les 4 étapes de la mitose. Aidez vous éventuellement de cette [vidéo](https://youtu.be/Y_uv5tzyKvY).
+
+- Réalisez des [schémas interprétatifs](https://ipfs.io/ipfs/Qmag1GKBhLAv6eANPau1rFHBzDn6dhsMNLXfjFeAvuDY5N) de chacune des 4 phases de la mitose. Prendre l'exemple d'une cellule [diploïde](https://ipfs.io/ipfs/QmfVE52V2nVCtvQqzbvGP48rjZMwsdi2thG2Dcj7SbYsZh) à 2n = 4 chromosomes soit 2 paires de chromosomes homologues. Respecter la symbolisation imposée.
+
+- Annotez vos schémas pour résumer en quelques lignes les modifications importantes de chaque étape.
+
+- Conclusion: Expliquer comment les modifications affectant le matériel génétique au cours de la mitose permettent le maintien du nombre de chromosomes et de l'intégralité de l'information génétique dans les cellules filles.
+
+### Bilan
