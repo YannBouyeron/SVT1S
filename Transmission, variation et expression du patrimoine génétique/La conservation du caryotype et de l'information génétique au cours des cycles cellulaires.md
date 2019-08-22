@@ -29,3 +29,11 @@ Ils élaborent une [expérience](http://svt.ac-dijon.fr/schemassvt/IMG/meselson_
  - Estimez après chaque réplication les % de molécules lourdes légères et intermédiaires obtenues.
 
 **Confronter les résultats attendus des 3 modèles aux résultats de [l’expérience](http://svt.ac-dijon.fr/schemassvt/IMG/meselson_stahl.gif") et conclure.**
+
+### Le mécanisme moléculaire de la réplication
+
+> La réplication débute par l’ouverture localisée de la molécule d’ADN, à plusieurs endroits ou yeux de réplication. Chacun des deux brins parentaux d'une molécule d'ADN dite mère sert de matrice pour la synthèse d'un nouveau brin complémentaire : au fur et à mesure de l’ouverture de la molécule d’ADN, de nouveaux nucléotides s’apparient avec les nucléotides de chaque brin servant de modèle grâce à la complémentarité des bases azotées. L’ADN-polymérase est l’enzyme qui catalyse la polymérisation de ces nucléotides.
+>
+> La polymérisation progresse ainsi de part et d’autre de l’origine de la réplication : l’œil de réplication s’allonge à mesure que les 2 brins d’ADN parentaux se séparent. On obtient ainsi deux molécules d'ADN filles chacune constituée de l'association d'un brin parental et d'un brin néo-synthétisé, la réplication est semi-conservative. Les deux molécules d’ADN filles obtenues sont donc identiques (même séquence nucléotidique, donc même information génétique) entre elles et identiques à la molécule mère. 
+>
+> À l'issue de la réplication, chaque molécule d'ADN est alors présente en deux exemplaires dans le noyau de la cellule; il existe donc deux lots d'information génétique identiques dans la cellule.
