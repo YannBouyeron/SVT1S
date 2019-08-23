@@ -15,7 +15,7 @@ Les [mesures](https://ipfs.io/ipfs/QmaEerNc9isnYPmmzHuac3NPSTC6g8eyzXv1Q2LuBgqy8
 </p>
 
 
-### Les expériences de Meselson & Stall
+## Les expériences de Meselson & Stall
 
 En 1958, Meselson & Sthal cherchent à comprendre le mécanisme permettant la réplication de l’ADN. Ils proposent 3 modèles hypothétiques:
 
@@ -26,11 +26,12 @@ Ils élaborent une [expérience](http://svt.ac-dijon.fr/schemassvt/IMG/meselson_
  **En tenant compte du protocole mis en œuvre par Meselson et Stahl, envisagez les résultats attendus de chacun des 3 modèles hypothétiques:**
  
  - Schématisez les molécules d'ADN obtenues selon chaque modèle hypothétique après une puis 2 réplications dans un milieu dépourvu d'azote 15
+ 
  - Estimez après chaque réplication les % de molécules lourdes légères et intermédiaires obtenues.
 
 **Confronter les résultats attendus des 3 modèles aux résultats de [l’expérience](http://svt.ac-dijon.fr/schemassvt/IMG/meselson_stahl.gif) et conclure.**
 
-### Le mécanisme moléculaire de la réplication
+## Le mécanisme moléculaire de la réplication
 
 La réplication débute par l’ouverture localisée de la molécule d’ADN, à plusieurs endroits ou [yeux de réplication](http://raymond.rodriguez1.free.fr/Documents/Cellule-genome/replication3.png). Chacun des deux brins parentaux d'une molécule d'ADN dite mère sert de matrice pour la synthèse d'un nouveau brin complémentaire : au fur et à mesure de l’ouverture de la molécule d’ADN, de nouveaux nucléotides s’apparient avec les nucléotides de chaque brin servant de modèle grâce à la complémentarité des bases azotées. L’ADN-polymérase est l’enzyme qui catalyse la polymérisation de ces nucléotides.
 
@@ -42,7 +43,7 @@ La polymérisation progresse ainsi de part et d’autre de l’origine de la ré
 
 **Schématiser la réplication de l'ADN au niveau de deux yeux de réplication au cours du temps (avant, pendant, après réplication). Utilisez la même symbolisation que précedement mais sans indiquer la séquence.**
 
-### Les mécanismes cellulaires de la mitose (TP)
+## Les mécanismes cellulaires de la mitose (TP)
 
 Lors de la réplication de l'ADN, chaque brin d'une molécule d'ADN sert de matrice pour la synthèse d'un nouveau brin complémentaire; cette réplication semi-conservative aboutie donc à la formation de deux molécules d'ADN identiques entre elles et identiques à la molécule d'ADN mère. La réplication de l'ADN permet ainsi l'obtention de deux lots d'informations génétiques identiques.
 
@@ -80,7 +81,7 @@ Lors de la réplication de l'ADN, chaque brin d'une molécule d'ADN sert de matr
 
 - Conclusion: Expliquer comment les modifications affectant le matériel génétique au cours de la mitose permettent le maintien du nombre de chromosomes et de l'intégralité de l'information génétique dans les cellules filles.
 
-### Bilan
+## Bilan
 
 Rédigez une courte synthèse pour expliquer comment les mécanismes de la réplication et de la mitose permettent la conservation du caryotype et de l'inforamtion génétique au cours des cycles cellulaires successifs
 
