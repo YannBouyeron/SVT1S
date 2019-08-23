@@ -28,7 +28,7 @@ Ils élaborent une [expérience](http://svt.ac-dijon.fr/schemassvt/IMG/meselson_
  - Schématisez les molécules d'ADN obtenues selon chaque modèle hypothétique après une puis 2 réplications dans un milieu dépourvu d'azote 15
  - Estimez après chaque réplication les % de molécules lourdes légères et intermédiaires obtenues.
 
-**Confronter les résultats attendus des 3 modèles aux résultats de [l’expérience](http://svt.ac-dijon.fr/schemassvt/IMG/meselson_stahl.gif") et conclure.**
+**Confronter les résultats attendus des 3 modèles aux résultats de [l’expérience](http://svt.ac-dijon.fr/schemassvt/IMG/meselson_stahl.gif) et conclure.**
 
 ### Le mécanisme moléculaire de la réplication
 
