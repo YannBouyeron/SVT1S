@@ -84,4 +84,4 @@ Lors de la réplication de l'ADN, chaque brin d'une molécule d'ADN sert de matr
 
 Rédigez une courte synthèse pour expliquer comment les mécanismes de la réplication et de la mitose permettent la conservation du caryotype et de l'inforamtion génétique au cours des cycles cellulaires successifs
 
-Complétez le tableau du cycle cellulaire aux différentes ploïdies.
+Complétez le [tableau](https://ipfs.io/ipfs/QmRLogFJxiA7QmbXBxoJqxt62VDBAHmvvM4MakX4AsRgye) du cycle cellulaire aux différentes ploïdies.
