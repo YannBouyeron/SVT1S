@@ -40,7 +40,7 @@ La polymérisation progresse ainsi de part et d’autre de l’origine de la ré
 
 **Schématiser la réplication de l'ADN au niveau d'une fourche de réplication. Représenter les enzymes impliquées (et leur sens de progression), les brins parentaux en bleu, les brins néo-synthétisés en rouge, et la séquence nucléotidique de chaque brin.**
 
-**Schématiser la réplication de l'ADN au niveau de deux yeux de réplication. Utilisez la même symbolisation que précedement mais sans indiquer la séquence.**
+**Schématiser la réplication de l'ADN au niveau de deux yeux de réplication au cours du temps (avant, pendant, après réplication). Utilisez la même symbolisation que précedement mais sans indiquer la séquence.**
 
 ### Les mécanismes cellulaires de la mitose (TP)
 
@@ -76,8 +76,12 @@ Lors de la réplication de l'ADN, chaque brin d'une molécule d'ADN sert de matr
 
 - Réalisez des [schémas interprétatifs](https://ipfs.io/ipfs/Qmag1GKBhLAv6eANPau1rFHBzDn6dhsMNLXfjFeAvuDY5N) de chacune des 4 phases de la mitose. Prendre l'exemple d'une cellule [diploïde](https://ipfs.io/ipfs/QmYVftRkuvJHPdbE9pejb3NmXjakumin7BHterVgceWppj) à 2n = 4 chromosomes soit 2 paires de chromosomes homologues. Respecter la symbolisation imposée.
 
-- Annotez vos schémas pour résumer en quelques lignes les modifications importantes de chaque étape.
+- Annotez vos schémas pour résumer en quelques lignes les modifications importantes de chaque étape.
 
 - Conclusion: Expliquer comment les modifications affectant le matériel génétique au cours de la mitose permettent le maintien du nombre de chromosomes et de l'intégralité de l'information génétique dans les cellules filles.
 
 ### Bilan
+
+Rédigez une courte synthèse pour expliquer comment les mécanismes de la réplication et de la mitose permettent la conservation du caryotype et de l'inforamtion génétique au cours des cycles cellulaires successifs
+
+Complétez le tableau du cycle cellulaire aux différentes ploïdies.
