@@ -11,7 +11,7 @@ Les [mesures](https://ipfs.io/ipfs/QmaEerNc9isnYPmmzHuac3NPSTC6g8eyzXv1Q2LuBgqy8
 **Exploitez ce graphique pour émettre une hypothèse relative au problème posé. Repérer ensuite les phases G1, S, G2, M sur votre graphique.**
 
 <p align="center">
-  <img src="Doc/adncycle.png">
+   <img src="https://ipfs.io/ipfs/QmUohw7WwJsRHWSyG2Mpbvo6ZPTjcpdZqzLWWjpoukZL7B">
 </p>
 
 
