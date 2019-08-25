@@ -10,9 +10,7 @@ Les [mesures](https://ipfs.io/ipfs/QmaEerNc9isnYPmmzHuac3NPSTC6g8eyzXv1Q2LuBgqy8
 
 **Exploitez ce [graphique](https://ipfs.io/ipfs/QmUohw7WwJsRHWSyG2Mpbvo6ZPTjcpdZqzLWWjpoukZL7B) pour émettre une hypothèse relative au problème posé. Repérer ensuite les phases G1, S, G2, M sur votre graphique.**
 
-<p align="center">
-  <img src="https://ipfs.io/ipfs/QmUohw7WwJsRHWSyG2Mpbvo6ZPTjcpdZqzLWWjpoukZL7B" width=50>
-</p>
+<p align="center"><img src="https://ipfs.io/ipfs/QmUohw7WwJsRHWSyG2Mpbvo6ZPTjcpdZqzLWWjpoukZL7B"></p>
 
 ## Les expériences de Meselson & Stall
 
