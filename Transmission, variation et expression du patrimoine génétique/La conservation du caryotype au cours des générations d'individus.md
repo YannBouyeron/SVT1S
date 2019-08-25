@@ -33,7 +33,7 @@ Exploitez des [données.json](https://ipfs.io/ipfs/Qmefw7eQGuXvAuNojEAa56x5t38ks
 Placez dans un ordre logique les [photos](https://ipfs.io/ipfs/QmaLb5TKYTT8fYY4fLbVoD5o8upZmDrEm795FxjoVpBiaP) des différentes étapes de la méiose ou utilisez cette [application](http://viasvt.fr/test-meiose/test-meiose.html). 
 
 <p align="center">
-  <img src="https://ipfs.io/ipfs/QmaLb5TKYTT8fYY4fLbVoD5o8upZmDrEm795FxjoVpBiaP">
+  <img src="https://ipfs.io/ipfs/QmaLb5TKYTT8fYY4fLbVoD5o8upZmDrEm795FxjoVpBiaP" width=80%>
 </p>
 
 
