@@ -11,7 +11,7 @@ Importer matplotlib.pyplot:
   
 Importer pandas:
 
-        import pandas as pd
+    import pandas as pd
 
 [Importer votre json dans un DataFrame](https://yannbouyeron.github.io/#importjson)
 
