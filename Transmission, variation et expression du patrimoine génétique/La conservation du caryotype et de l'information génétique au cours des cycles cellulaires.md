@@ -10,7 +10,7 @@ Les [mesures](https://ipfs.io/ipfs/QmaEerNc9isnYPmmzHuac3NPSTC6g8eyzXv1Q2LuBgqy8
 
 **Exploitez ce [graphique](https://ipfs.io/ipfs/QmUohw7WwJsRHWSyG2Mpbvo6ZPTjcpdZqzLWWjpoukZL7B) pour émettre une hypothèse relative au problème posé. Repérer ensuite les phases G1, S, G2, M sur votre graphique.**
 
-<p align="center"><img src="https://ipfs.io/ipfs/QmUohw7WwJsRHWSyG2Mpbvo6ZPTjcpdZqzLWWjpoukZL7B"></p>
+<p align="center"><img src="https://github.com/YannBouyeron/SVT1S/blob/master/Transmission%2C%20variation%20et%20expression%20du%20patrimoine%20génétique/docsvt/adncycle.png" width=100></p>
 
 ## Les expériences de Meselson & Stall
 
