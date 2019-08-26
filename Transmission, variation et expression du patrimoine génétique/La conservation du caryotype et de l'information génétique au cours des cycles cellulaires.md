@@ -14,11 +14,11 @@ Les [mesures](https://ipfs.io/ipfs/QmaEerNc9isnYPmmzHuac3NPSTC6g8eyzXv1Q2LuBgqy8
 
 ## Les expériences de Meselson & Stall
 
-En 1958, Meselson & Sthal cherchent à comprendre le mécanisme permettant la réplication de l’ADN. Ils proposent 3 modèles hypothétiques:
+En 1958, Meselson & Sthal cherchent à comprendre le mécanisme permettant la réplication de l’ADN. Ils proposent 3 [modèles](https://ipfs.io/ipfs/QmYvwNsPvcJiz4eNnBR9BC1y5EvBRQFTdXzWuPWnxir64p) hypothétiques:
 
 > "Nous avons cherché à savoir si l’ADN se réplique de façon semi-conservative, de façon dispersive ou de façon conservative. Autrement dit, à chaque division, est-ce que les deux brins se séparent, restent sous la forme simple brin pendant un certain temps puis se retrouvent chacun associés à un brin nouvellement synthétisé ? Ou bien est-ce qu’ils se disloquent et sont ensuite dispersés ? Ou bien est-ce que les deux brins restent indéfiniment accolés et permettent la synthèse, à coté d’eux, d’une molécule dont les deux brins sont nouvellement synthétisés ?" *Mesleson & Stahl (1958)*
 
-Ils élaborent une [expérience](http://svt.ac-dijon.fr/schemassvt/IMG/meselson_stahl.gif) pour éprouver la validité de leurs modèles.
+Ils élaborent une [expérience](https://ipfs.io/ipfs/QmPPq2nZm8bLbAtHqt2X5TE7npCVP5tN6DJo3iogUb6XzU) pour éprouver la validité de leurs modèles.
 
  **En tenant compte du protocole mis en œuvre par Meselson et Stahl, envisagez les résultats attendus de chacun des 3 modèles hypothétiques:**
  
@@ -26,7 +26,7 @@ Ils élaborent une [expérience](http://svt.ac-dijon.fr/schemassvt/IMG/meselson_
  
  - Estimez après chaque réplication les % de molécules lourdes légères et intermédiaires obtenues.
 
-**Confronter les résultats attendus des 3 modèles aux résultats de [l’expérience](http://svt.ac-dijon.fr/schemassvt/IMG/meselson_stahl.gif) et conclure.**
+**Confronter les résultats attendus des 3 modèles aux résultats de l’[expérience](https://ipfs.io/ipfs/QmPPq2nZm8bLbAtHqt2X5TE7npCVP5tN6DJo3iogUb6XzU) et conclure.**
 
 ## Le mécanisme moléculaire de la réplication
 
