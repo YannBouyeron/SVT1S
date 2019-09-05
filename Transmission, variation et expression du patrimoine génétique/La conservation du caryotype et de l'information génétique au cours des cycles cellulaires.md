@@ -2,7 +2,7 @@
 
 Le développement d’un être vivant pluricellulaire à partir d’une cellule oeuf nécessite une succession de divisions cellulaires appelées mitoses ainsi que la différenciation des cellules en types cellulaires spécifiques des organes qu’elles constituent. Les molécules d’ADN, constituant principal des chromosomes et support de l’information génétique, sont intégralement transmises au cours de la mitose de la cellule mère aux deux cellules filles. Toutes les cellules de l'organisme possèdent donc le même caryotype et la même information génétique.
 
-***<p aligns="center">Comment la mitose et la réplication permettent elles la reproduction conforme de la cellule ?</p>***
+***<p style="text-align:center;">Comment la mitose et la réplication permettent elles la reproduction conforme de la cellule ?</p>***
 
 Le cycle cellulaire est l’ensemble des modifications qui affectent une cellule entre sa naissance (par division d’une cellule mère pré-existante), jusqu’à sa propre division.
 
