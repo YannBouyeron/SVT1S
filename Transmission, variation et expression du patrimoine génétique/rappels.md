@@ -12,7 +12,7 @@ Chaque nucléotide est constitué de 3 éléments:
 - Un sucre: le désoxyribose
 - Une base azotée : Adénine ( A ) ou Guanine ( G ) ou Cytosine ( C ) ou Thymine ( T )
 
-Chaque base azotée située au centre de la double hélice est reliée à un désoxyribose, lui même relié aux groupements phosphates situés en périphérie de la double hélice. Les nucléotides successifs d’une même chaîne sont reliés les un aux autre par leurs groupements phosphates. 
+Chaque base azotée située au centre de la double hélice est reliée à un désoxyribose, lui même relié aux groupements phosphates situés en périphérie de la double hélice. Les nucléotides successifs d’une même chaîne sont reliés les uns aux autres par leurs groupements phosphates. 
 
 Les deux brins de la molécule d’ADN sont complémentaires du fait de la complémentarité des bases azotées se faisant face sur les deux brins opposés: l’adénine est complémentaire de la thymine, et la guanine est complémentaire de la cytosine. Des liaisons hydrogènes (laissons faibles) relient les bases azotées complémentaires qui se font face, ce qui assure la cohésion et l’agencement des deux brins de la molécule.
 
