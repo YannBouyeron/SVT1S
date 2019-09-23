@@ -1,4 +1,4 @@
-# Activité 3: L’origine des mutations.
+# L’origine des mutations.
 
 Tous les individus d'une même espèce possèdent le même génome et le même caryotype. Il existe cependant une variablité intraspécifique qui résulte des mutations.
 
