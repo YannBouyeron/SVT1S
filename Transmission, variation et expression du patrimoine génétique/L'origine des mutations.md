@@ -1,6 +1,6 @@
 # L’origine des mutations.
 
-Tous les individus d'une même espèce possèdent le même génome et le même caryotype. Il existe cependant une variablité intraspécifique qui résulte des mutations.
+Tous les individus d'une même espèce possèdent le même génome et le même caryotype. Il existe cependant une variabilité intraspécifique qui résulte des mutations.
 
 ***<p align=center>Comment les mutations apparaissent-elles au sein des cellules ?</p>***
 
