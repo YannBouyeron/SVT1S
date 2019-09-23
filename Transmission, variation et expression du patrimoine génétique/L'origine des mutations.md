@@ -1,6 +1,6 @@
 # Activité 3: L’origine des mutations.
 
-Dans un organisme pluricellulaire , les diffenrentes fonctions sont réparties entre organes eux mêmes organisés en tissus spécialisés constitués de cellules spécialisées.
+Tous les individus d'une même espèce possèdent le même génome et le même caryotype. Il existe cependant une variablité intraspécifique qui résulte des mutations.
 
 ***<p align=center>Comment les mutations apparaissent-elles au sein des cellules ?</p>***
 
