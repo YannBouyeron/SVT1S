@@ -8,7 +8,7 @@ Une protéine est un polymère d’acides aminés. Il existe 20 acides aminés d
 
 
 
-<div align=center>
+<div align="center">
 
 <table>
 
