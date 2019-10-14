@@ -106,3 +106,33 @@ La méiose permet de produire 4 cellules haploïdes à partir d’une cellule di
 La place relative de la méiose et de la fécondation détermine la phase "dominante" du cycle de développement de l’espèce: dans l’espèce humaine, la fécondation a lieu juste après la méiose, la phase diploïde est donc "dominante".
 
 ## **Chapitre 2: Mutations de l’ADN et variabilité génétique.**
+
+L'alternance mitose / réplication assure la conservation de l'information génétique au cours des cycles cellulaires successifs. Il existe pourtant une variabilité génétique intraspécifique caractérisée par l'existence de différentes versions d'un même gène: les allèles.
+
+#### **1: Origines des mutations.**
+
+Les différents allèles d'un gène présentent des différences dans leurs séquences nucléotidiques. Ces différences résultent de mutations qui sont des phénomènes rares et aléatoires dont la fréquence peut être augmentée par l'exposition à des facteurs de l'environnement qualifiés d'agents mutagènes.
+
+On distingue des mutations ponctuelles qui n'affectent qu'un seul nucléotide (une seule paire de nucléotides) , et des mutations étendues qui affectent plusieurs nucléotides successifs (plusieurs paires de nucléotides successives)
+
+On [distingue](https://ipfs.io/ipfs/QmNYP1zHYTBJGBXPFcxotRV6PWJY4A5uMgdj7cUP1ffbqs) aussi des mutations par:
+
+- substitution: un nucléotide est remplacé par un autre
+- délétion: perte de un ou plusieurs nucléotides 
+- addition (insertion): ajout de un ou plusieurs nucléotides
+
+Les mutations sont dues à des erreurs qui peuvent avoir lieu lors de la réplication (erreurs commises par l’ADN polymérase entraînant un mauvais appariement des nucléotides) ou en dehors de la réplication (altération physique et/ou chimique d'une base azotée)
+
+Les lésions de la molécule d'ADN (telles que les dimères de thymines) peuvent être réparées par différents systèmes de réparation. Lorsqu’une lésion de l’ADN échappe aux systèmes de réparations, cela peut bloquer la progression de l’ADN polymérase durant la réplication ce qui entraîne la mort de la cellule; ou provoquer un mésappariement à l’origine d’une mutation proprement dite (modification de la séquence nucléotidique) 
+
+#### **2: Conséquences des mutations**
+
+Plus de 98% de notre ADN est constitué de séquences non codantes (séquences extra-géniques). Ces séquences non codantes contiennent des séquences régulatrices (promoteurs, enhancer, silencer...) mais aussi beaucoup de séquences n’ayant pas (ou plus) de fonctions. Une mutation se produisant au niveau d’une séquence non codante et non régulatrice n’a donc aucun effet sur les caractères de l’organisme.
+
+Les mutations somatiques (mutations qui affectent des cellules somatiques = non reproductrices) peuvent se transmettre à la descendance de la cellule via les mitoses au cours des cycles cellulaires successifs, si la cellule a conservé (ou acquis du fait de la mutation elle même) ses capacités de divisions. 
+
+Les mutations germinales (mutations qui affectent des cellules germinales = cellules reproductrices = gamètes) peuvent se transmettre à la descendance de l’individu si le gamète affecté participe à la reproduction.
+
+Les mutations germinales peuvent être à l'origine de nouveaux allèles d'un gêne, qui peuvent éventuellement se répandre dans la population ou disparaître du fait du hasard (dérive génétique, effet fondateur) ou de la séléction naturelle.
+
+Tous les individus d'une même espèce possèdent le même caryotype, et le même génome, mais du fait de l'existence de différents allèles des gènes, chaque individu possède un génotype qui lui est propre (à l'exception des vrais jumeaux). Cette variabilité des génotypes explique en partie la variabilité des phénotypes au sein de l'espèce.
