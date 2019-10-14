@@ -3,9 +3,9 @@
 
 L’ADN (acide désoxyribonucléique) est une macromolécule constituée de 2 brins complémentaires, chacun formé d’un assemblage de nucléotides. Support universel de l’infomation génétique, l’ADN est présent dans toutes les cellules vivantes.
 
-<p align=center>Comment l’ADN est-il transmis au cours des générations cellulaires et au cours des générations d’individus ?</p>
-<p align=center>Comment expliquer la variabilité de l’information génétique ?</p>
-<p align=center>Comment l’information génétique de l’ADN s’exprime-t-elle ?</p>
+<p align=center>*Comment l’ADN est-il transmis au cours des générations cellulaires et au cours des générations d’individus ?*</p>
+<p align=center>*Comment expliquer la variabilité de l’information génétique ?*</p>
+<p align=center>*Comment l’information génétique de l’ADN s’exprime-t-elle ?*</p>
 
 ## **Chapitre I: La transmission de l’information génétique.**
 
@@ -49,7 +49,7 @@ La réplication débute par l’ouverture localisée de la molécule d’ADN, à
 
 La polymérisation progresse ainsi de part et d’autre de l’origine de la réplication : [l’œil de réplication](http://3.bp.blogspot.com/-bwtNlSX4yZQ/Tnc2y6vlUkI/AAAAAAAAABE/wIKfFZfCARw/w1200-h630-p-k-no-nu/sche%25CC%2581ma+re%25CC%2581plication+1.png) s’allonge à mesure que les 2 brins d’ADN parentaux se séparent. On [obtient](https://sienceduvivant.files.wordpress.com/2017/01/figure-121.jpg?w=680) ainsi deux molécules d'ADN filles chacune constituée de l'association d'un brin parental et d'un brin néo-synthétisé, la réplication est semi-conservative. Les deux molécules d’ADN filles obtenues sont donc identiques (même séquence nucléotidique, donc même information génétique) entre elles et identiques à la molécule mère. 
 
-À l'issue de la réplication, chaque molécule d'ADN est alors présente en deux exemplaires dans le noyau de la cellule; il existe donc deux lots d'information génétique identiques dans la cellule.
+À l'issue de la réplication, chaque molécule d'ADN est alors présente en deux exemplaires dans le noyau de la cellule; il existe donc deux lots d'informations génétiques identiques dans la cellule.
 
 #### **3: La mitose.**
 
@@ -70,7 +70,7 @@ Ainsi, à l'issu de la mitose, les cellules filles possèdent le même nombre de
 
 #### **Conclusion:**
 
-La réplication de l'ADN permet la production de deux lots d'information génétique identiques. La mitose divise et repartie équitablement les deux lots d'information génétique entre les deux cellules filles. L'alternance mitose/réplication assure la conservation du caryotype et de l'information génétique au cours des cycles cellulaires successifs. La division cellulaire est donc une reproduction conforme de la cellule.
+La réplication de l'ADN permet la production de deux lots d'informations génétiques identiques. La mitose divise et repartie équitablement les deux lots d'informations génétiques entre les deux cellules filles. L'alternance mitose/réplication assure la conservation du caryotype et de l'information génétique au cours des cycles cellulaires successifs. La division cellulaire est donc une reproduction conforme de la cellule.
 
 Au cours d'un cycle cellulaire, l'ADN est toujours présent dans la cellule, il présente cependant des états de condensation variables: il est faiblement condensé sous forme de chromatine dans le noyau des cellules interphasiques, et fortement condensé dans les chromosomes au cours de la mitose.
 
