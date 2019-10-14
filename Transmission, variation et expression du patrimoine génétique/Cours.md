@@ -59,7 +59,7 @@ La mitose se réalise en [quatre étapes](http://s1.studylibfr.com/store/data/00
 
 Au cours de la **prophase**, les molécules d'ADN initialement présentes en deux exemplaires (molécules sœurs) dans le noyau des cellules interphasiques sous forme de chromatine (ADN faiblement condensé) se condensent et s'assemblent pour former des chromosomes à deux chromatides. L'enveloppe nucléaire se désagrège.
 
-Lors de la **métaphase**, les chromosomes poursuivent leur condensation et deviennent de plus en plus épais. Ils se positionnent au centre de la cellule, sur le plan équatorial ou plan métaphasique. Chaque centromère est situé dans le plan équatorial et les 2 chromatides soeurs de chaque chromosomes se placent de part et d’autre du plan équatorial.
+Lors de la **métaphase**, les chromosomes poursuivent leur condensation et deviennent de plus en plus épais. Ils se positionnent au centre de la cellule, sur le plan équatorial ou plan métaphasique. Chaque centromère est situé dans le plan équatorial et les 2 chromatides soeurs de chaque chromosome se placent de part et d’autre du plan équatorial.
 
 Lors de **l’anaphase**, les chromatides soeurs de chaque chromosome se séparent au niveau des centromères. Chaque chromatide est tirée vers un pôle de la cellule. Il y'a ainsi migration de 2 lots de chromosomes à une chromatide vers les pôles cellulaires opposés.
 
