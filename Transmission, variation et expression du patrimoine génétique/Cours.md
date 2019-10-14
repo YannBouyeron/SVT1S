@@ -95,7 +95,7 @@ La méiose est un ensemble de [deux divisions successives](https://ipfs.io/ipfs/
 
 *Les caractéristiques des phases sont à connaître, et à savoir schématiser, voir [tableau](https://ipfs.io/ipfs/QmP2EZ7csGPRyLuRqAe3jjXwHX3SNriYd5meFpcKTHy3VS) de la méiose de l’activité 2*
 
-Dans l’espèce humaine, les cellules haploïdes produites lors de la méiose sont se différencient pour se spécialiser dans la reproduction ; il s’agit alors de gamètes. Ce n’est pas le cas pour toutes les espèces.
+Dans l’espèce humaine, les cellules haploïdes produites lors de la méiose se différencient pour se spécialiser dans la reproduction ; il s’agit alors de gamètes. Ce n’est pas le cas pour toutes les espèces.
 
 Des anomalies lors de la méiose (disjonction trop tardive des 2 chromosomes homologues formant un bivalent qui migrent alors vers le même pôle en anaphase 1; ou disjonction trop tardive des 2 chromatides sœurs d’un chromosome qui migrent alors vers le même pôle en anaphase 2) peuvent conduire à des anomalies chromosomiques telles que la trisomie 21 (syndrome de Down) ou le syndrome de Turner (2n = 44 + X0) ou encore le syndrome de Klinefelter (2n = 44 + XXY). 
 
