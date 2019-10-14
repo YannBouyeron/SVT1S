@@ -123,9 +123,10 @@ On [distingue](https://ipfs.io/ipfs/QmNYP1zHYTBJGBXPFcxotRV6PWJY4A5uMgdj7cUP1ffb
 
 Les mutations sont dues à des erreurs qui peuvent avoir lieu lors de la réplication (erreurs commises par l’ADN polymérase entraînant un mauvais appariement des nucléotides) ou en dehors de la réplication (altération physique et/ou chimique d'une base azotée)
 
-#### **2: Conséquences des mutations**
+Les lésions de la molécule d'ADN (telles que les dimères de thymines) peuvent être réparées par différents systèmes de réparations. Lorsqu’une lésion de l’ADN échappe aux systèmes de réparations, cela peut bloquer la progression de l’ADN polymérase durant la réplication ce qui entraîne la mort de la cellule; ou provoquer un mésappariement à l’origine d’une mutation proprement dite (modification de la séquence nucléotidique) 
 
-Les lésions de la molécule d'ADN (telles que les dimères de thymines) peuvent être réparées par différents systèmes de réparation. Lorsqu’une lésion de l’ADN échappe aux systèmes de réparations, cela peut bloquer la progression de l’ADN polymérase durant la réplication ce qui entraîne la mort de la cellule; ou provoquer un mésappariement à l’origine d’une mutation proprement dite (modification de la séquence nucléotidique) 
+
+#### **2: Conséquences des mutations**
 
 Plus de 98% de notre ADN est constitué de séquences non codantes (séquences extra-géniques). Ces séquences non codantes contiennent des séquences régulatrices (promoteurs, enhancer, silencer...) mais aussi beaucoup de séquences n’ayant pas (ou plus) de fonctions. Une mutation se produisant au niveau d’une séquence non codante et non régulatrice n’a donc aucun effet sur les caractères de l’organisme.
 
