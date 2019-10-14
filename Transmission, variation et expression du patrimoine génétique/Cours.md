@@ -3,9 +3,9 @@
 
 L’ADN (acide désoxyribonucléique) est une macromolécule constituée de 2 brins complémentaires, chacun formé d’un assemblage de nucléotides. Support universel de l’infomation génétique, l’ADN est présent dans toutes les cellules vivantes.
 
-<p align=center>*Comment l’ADN est-il transmis au cours des générations cellulaires et au cours des générations d’individus ?*</p>
-<p align=center>*Comment expliquer la variabilité de l’information génétique ?*</p>
-<p align=center>*Comment l’information génétique de l’ADN s’exprime-t-elle ?*</p>
+*<p align=center>Comment l’ADN est-il transmis au cours des générations cellulaires et au cours des générations d’individus ?</p>*
+*<p align=center>Comment expliquer la variabilité de l’information génétique ?</p>*
+*<p align=center>Comment l’information génétique de l’ADN s’exprime-t-elle ?</p>*
 
 ## **Chapitre I: La transmission de l’information génétique.**
 
