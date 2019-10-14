@@ -111,7 +111,7 @@ L'alternance mitose / réplication assure la conservation de l'information gén�
 
 #### **1: Origines des mutations.**
 
-Les différents allèles d'un gène présentent des différences dans leurs séquences nucléotidiques. Ces différences résultent de mutations qui sont des phénomènes rares et aléatoires dont la fréquence peut être augmentée par l'exposition à des facteurs de l'environnement qualifiés d'agents mutagènes.
+Les mutations sont des phénomènes rares et aléatoires. Elles peuvent se produire de manière spontanée. Leur fréquence peut être augmentée par l'exposition à des facteurs de l'environnement qualifiés d'agents mutagènes.
 
 On distingue des mutations ponctuelles qui n'affectent qu'un seul nucléotide (une seule paire de nucléotides) , et des mutations étendues qui affectent plusieurs nucléotides successifs (plusieurs paires de nucléotides successives)
 
