@@ -134,6 +134,6 @@ Les mutations somatiques (mutations qui affectent des cellules somatiques = non 
 
 Les mutations germinales (mutations qui affectent des cellules germinales = cellules reproductrices = gamètes) peuvent se transmettre à la descendance de l’individu si le gamète affecté participe à la reproduction.
 
-Les mutations germinales peuvent être à l'origine de nouveaux allèles d'un gêne, qui peuvent éventuellement se répandre dans la population ou disparaître du fait du hasard (dérive génétique, effet fondateur) ou de la séléction naturelle.
+Les mutations germinales peuvent être à l'origine de nouveaux allèles d'un gène, qui peuvent éventuellement se répandre dans la population ou disparaître du fait du hasard (dérive génétique, effet fondateur) ou de la séléction naturelle.
 
 Tous les individus d'une même espèce possèdent le même caryotype, et le même génome, mais du fait de l'existence de différents allèles des gènes, chaque individu possède un génotype qui lui est propre (à l'exception des vrais jumeaux). Cette variabilité des génotypes explique en partie la variabilité des phénotypes au sein de l'espèce.
