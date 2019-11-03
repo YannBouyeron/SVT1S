@@ -13,6 +13,7 @@ Pour pouvoir coder 20 acides aminés différents à partir d'un ARN ne contenant
 Plusieurs expériences ont été ensuite réalisées avec le même protocole, mais en changeant la nature de l’ARNm synthétique. Les résultats sont présentés dans le tableau ci-dessous 
 
 <p><br></p>
+
 <div align="center">
 
 <table>
@@ -33,8 +34,9 @@ Plusieurs expériences ont été ensuite réalisées avec le même protocole, ma
 
 Le code génétique est un système de correspondance entre les triplets de ribonucléotides ou codons de l'ARNm et les acides aminés des protéines. Il est présenté sous la forme d'un tableau à triple entrée (rabat du livre). Son utilisation montre par exemple que le triplet AUG code pour l'acide aminé Met.
 
+<div align="center">
 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/SVT_CodeGenetique.svg/307px-SVT_CodeGenetique.svg.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/SVT_CodeGenetique.svg/307px-SVT_CodeGenetique.svg.png" alt="code génétique" width=400></a>
-
+</div>
 
 **Utilisez le code génétique  pour répondre aux questions suivantes en justifiant et en donnant des exemples:**
 
