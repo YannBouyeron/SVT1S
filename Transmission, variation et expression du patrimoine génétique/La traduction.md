@@ -13,7 +13,7 @@ Pour pouvoir coder 20 acides aminés différents à partir d'un ARN ne contenant
 Plusieurs expériences ont été ensuite réalisées avec le même protocole, mais en changeant la nature de l’ARNm synthétique. Les résultats sont présentés dans le tableau ci-dessous 
 
 <p><br></p>
-<div align=center>
+<div align="center">
 
 <table>
 <tr><th>ARN de synthèse</th><th>Polypeptides obtenus</th></tr>
@@ -49,8 +49,8 @@ Le code génétique est un système de correspondance entre les triplets de ribo
 
 ## Le mécanisme moléculaire de la traduction.
 
-
+<div align="center">
 <a href="https://ipfs.io/ipfs/Qme8p88uE2VjcEa8vV8ptnvDEkA3tyqxfTeB8ZVWsGpxWK"><img src="https://ipfs.io/ipfs/Qme8p88uE2VjcEa8vV8ptnvDEkA3tyqxfTeB8ZVWsGpxWK" alt="code génétique" width=400></a>
-
+</div>
 
 **<p align="center">Rédigez une synthèse pour expliquer comment l'information génétique contenue dans l'ARN est utilisée pour permettre la synthèse d'une protéine</p>**
