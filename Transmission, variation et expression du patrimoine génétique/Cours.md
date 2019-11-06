@@ -9,6 +9,8 @@ L’ADN (acide désoxyribonucléique) est une macromolécule constituée de 2 br
 
 ## **Chapitre I: La transmission de l’information génétique.**
 
+*<p align=center>Comment l’ADN est-il transmis au cours des générations cellulaires et au cours des générations d’individus ?</p>*
+
 ### **A: La transmission de l’information génétique au cours des cycles cellulaires.**
 
 Le développement d’un être vivant pluricellulaire à partir d’une cellule oeuf (zygote) nécessite une succession de divisions cellulaires appelées mitoses ainsi que la différenciation des cellules en types cellulaires spécifiques des organes qu’elles constituent. La division cellulaire est donc essentielle à la croissance et au développement de l’organisme, mais aussi au renouvellement des cellules qui le constituent. Il est donc impératif que cette division cellulaire soit une reproduction conforme qui conserve toutes les caractéristiques de la cellule. 
@@ -109,6 +111,8 @@ La place relative de la méiose et de la fécondation détermine la phase "domin
 
 L'alternance mitose / réplication assure la conservation de l'information génétique au cours des cycles cellulaires successifs. Il existe pourtant une variabilité génétique intraspécifique caractérisée par l'existence de différentes versions d'un même gène: les allèles.
 
+*<p align=center>Comment expliquer la variabilité de l’information génétique ?</p>*
+
 #### **1: Origines des mutations.**
 
 Les mutations sont des phénomènes rares et aléatoires. Elles peuvent se produire de manière spontanée. Leur fréquence peut être augmentée par l'exposition à des facteurs de l'environnement qualifiés d'agents mutagènes.
@@ -137,7 +141,6 @@ Les mutations germinales (mutations qui affectent des cellules germinales = cell
 Les mutations germinales peuvent être à l'origine de nouveaux allèles d'un gène, qui peuvent éventuellement se répandre dans la population ou disparaître du fait du hasard (dérive génétique, effet fondateur) ou de la séléction naturelle.
 
 Tous les individus d'une même espèce possèdent le même caryotype, et le même génome, mais du fait de l'existence de différents allèles des gènes, chaque individu possède un génotype qui lui est propre (à l'exception des vrais jumeaux). Cette variabilité des génotypes explique en partie la variabilité des phénotypes au sein de l'espèce.
-
 
 ## **Chapitre 3: L’expression de l’information génétique**
 
