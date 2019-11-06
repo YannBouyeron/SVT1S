@@ -137,3 +137,86 @@ Les mutations germinales (mutations qui affectent des cellules germinales = cell
 Les mutations germinales peuvent être à l'origine de nouveaux allèles d'un gène, qui peuvent éventuellement se répandre dans la population ou disparaître du fait du hasard (dérive génétique, effet fondateur) ou de la séléction naturelle.
 
 Tous les individus d'une même espèce possèdent le même caryotype, et le même génome, mais du fait de l'existence de différents allèles des gènes, chaque individu possède un génotype qui lui est propre (à l'exception des vrais jumeaux). Cette variabilité des génotypes explique en partie la variabilité des phénotypes au sein de l'espèce.
+
+
+## **Chapitre 3: L’expression de l’information génétique**
+
+En 1941, les expériences menées par G. Beadle et E. Taturn ont établi la correspondance entre un gène et une enzyme. Depuis, il est prouvé qu’un gène donné contrôle la synthèse d’une protéine donnée: une modification de la séquence nucléotidique d'un gêne induit une modification de la séquence péptidique de la protéine correspondante, la séquence péptidique des protéines est donc déterminée par la séquence nucléotidique des gènes; on dit qu’un gène code une protéine. Toutefois, il est très rare qu’un caractère phénotypique soit contrôlé par un seul gène. Les protéines, molécules essentielles à la vie de la cellule (fonctions variées, métabolisme...), sont synthétisées à tout moment par la cellule grâce à l’information portée par les gènes. On appelle expression génétique l’ensemble des processus cellulaires qui, à partir d’un gène donné, permettent la synthèse d’une protéine précise.
+
+*<p align=center>Comment l’information génétique de l’ADN s’exprime-t-elle ?</p>*
+
+La synthèse des protéines se déroule dans le cytoplasme. Or, dans une cellule eucaryote, les gènes sont localisés dans le noyau, au sein de l’ADN. L’expression génétique implique donc l’existence d’un intermédiaire entre l’information génétique nucléaire et la synthèse protéique cytoplasmique. Cet intermédiaire est constitué par un ensemble de molécules: les acides ribonucléiques ou ARNm. Le rôle des ARNm est universel et ils interviennent même dans les cellules procaryotes où l’information génétique et la synthèse protéique se trouvent dans le même compartiment cellulaire.
+
+### **I: La transcription**
+
+#### 1: Les caractéristiques de l’ARN
+
+De même que l’ADN, les ARN sont des acides nucléiques : ils sont constitués d’un enchaînement de nucléotides composés chacun d’un sucre, d’une base azotée et d’un groupement phosphate. Les ARN diffèrent de l’ADN par plusieurs caractéristiques :
+
+<div align=center>
+
+<table>
+
+<tr><th></th><th>ARN</th><th>ADN</th></tr>
+
+<tr><td>Structure de la molécule</td><td>Un brin (mono caténaire) constitué d'un assemblage de nucléotides</td><td>Deux brins (bi caténaire) complémentaires chacun constitué d'un assemblage de nucléotides </td></tr>
+
+<tr><td>Structure des nucléotides</td><td>Phosphate - Ribose - Base azotée</td><td>Phosphate - Désoxyribose - Base azotée</td></tr>
+
+<tr><td>Nature des bases azotées</td><td>Adénine, Uracile, Guanine, Cytosine</td><td>Adénine, Thymine, Guanine, Cytosine</td></tr>
+
+<tr><td>Localisation</td><td>Noyau et Cytoplasme</td><td>Noyau (Cytoplasme lors de la mitose)</td></tr>
+
+<tr><td>Durée de vie</td><td>Très courte: quelques dizaines de minutes</td><td>Très longue</td></tr>
+
+</table>
+</div>
+
+Ainsi, les ribonucléotides des ARN peuvent s’apparier avec les désoxyribonucléotides de l’ADN en fonction des bases azotées qu’ils portent: voir règles de complémentarité dans le tableau ci-dessous.
+
+<div align=center>
+
+<table>
+
+<tr><th>rNTP (nulcéotides de l’ARN)</th><th>dNTP (nucléotides de l’ADN)</th></tr>
+<tr><td>A</td><td>T</td></tr>
+<tr><td>U</td><td>A</td></tr>
+<tr><td>C</td><td>G</td></tr>
+<tr><td>G</td><td>C</td></tr>
+
+</table>
+</div>
+
+
+Les ARN sont des molécules informatives: l’information contenue dans une molécule d’ARNm donnée gouverne la synthèse d’une protéine donnée. Ainsi à chaque instant une cellule humaine referme plusieurs milliers de molécules d’ARN différentes qui permettent la synthèse de toutes les molécules nécessaires à la vie et au fonctionnement de la cellule. Les ARN ont une faible durée de vie : une fois synthétisés, il sont dégradés dans un délai qui va de quelques minutes à plusieurs dizaines de minutes. La cellule modifie ainsi rapidement les protéines qu’elle synthétise, en réponse à des signaux provenant de l’environnement.
+
+#### 2: Le mécanisme de la transcription
+
+La transcription est le mécanisme moléculaire par lequel l'information contenue dans l'ADN est recopiée sous forme d'ARN. Les ARN sont synthétisés dans le noyau au contact de l’ADN grâce à une enzyme spécialisée l’ARN polymérase; ils quittent ensuite le noyau pour rejoindre le cytoplasme. 
+La transcription d’un gène débute par l’ouverture partielle de la double hélice d’ADN. Puis l’ARN polymérase place en face de chaque désoxyrionucléotide d’un des deux brin de l’ADN (le brin transcrit) le ribonucléotide complémentaire. L’enzyme établit en même temps des liaisons covalentes entre les ribonucléotides successifs. L’ARN polymérase progresse dans un seul sens le long du gène qui se trouve ainsi transcrit en une molécule d’ARN pré messager de séquence complémentaire à celle du brin transcrit du gène. L’ARNm contient donc la même information que l’ADN à partir duquel il a été synthétisé.
+
+#### 3: La maturation des ARN
+
+Après la transcription, et avant de migrer vers le cytoplasme, les molécules d'ARN qualifiées alors de "pré-messagers" subissent des modifications par excision / épissage. Des régions de l'ARN pré-messager (les introns) sont éliminées lors de l'excision, tandis que les régions conservées dans l'ARN messager (les exons) sont liées les unes aux autres lors de l'épissage. Un même ARN pré-messager peut subir, selon les cellules dans lesquelles a lieu sa maturation, des épissages alternatifs aboutissant ainsi à la production d'ARN messagers différents à partir d'un même gêne. Un même gêne peut donc coder pour différentes protéines. 
+
+### **II: La traduction**
+
+#### 1: Le code génétique
+
+Le code génétique est un système de correspondance entre les triplets de nucléotides de l'ARN, et les acides aminés des protéines. Un ARNm est constitué d’unités de lecture composées de 3 ribonucléotides : les codons ou triplets. Chaque codon d’ARNm code pour un acide aminé. (À l'exception des trois codons stop)
+
+Un même acide aminé peut-être codé par plusieurs codons différents : le code génétique est redondant et dégénéré. En revanche un même codon code toujours le même acide aminé : le code génétique est univoque ou non ambigu. Le code génétique est identique chez tous les êtres vivants: le code génétique est universel.
+
+Sur un ARNm, le codon initiateur est toujours AUG et correspond au 1er acide aminé de la protéine codée, la méthionine. A partir de ce codon initiateur, les codons suivants, qui codent les autres acides aminés de la protéine, se succèdent sans chevauchement ni espacement : le code génétique est non chevauchant et sans espace. Le codon initiateur définit ainsi le cadre de lecture (il y a 3 cadres de lecture pour un ARNm), c’est à dire la manière de lire 3 par 3 la succession des ribonucléotides.
+
+Trois codons ne codent pour aucun acide aminé. Ce sont les codons STOP : UAA, UAG et UGA. Le codon qui les précède code le dernier acide aminé de la protéine.
+
+#### 2: Le mécanisme de la traduction
+
+Chaque ARNm permet la synthèse d’une protéine, au cours d’un processus qualifié de traduction. La traduction a lieu dans le cytoplasme au niveau de structures complexes (2 sous-unités) et de grandes tailles : les ribosomes.
+
+La petite sous-unité du ribosome se place au niveau des 1er codons initiateur et met en place une méthionine en face du codon initiateur AUG . La grande sous-unité du ribosome se met alors en place, en face de la petite sous unité : c’est l’initiation.
+
+Un acide aminé vient se placer en face du codon suivant, selon la correspondance dictée par le code génétique.  Une liaison peptidique s’établit entre la méthionine et le second acide aminé. Le ribosome se déplace sur l’ARNm et passe au codon suivant...et ainsi de suite : c’est l’élongation.
+
+Lorsque le ribosome arrive sur un codon stop, les 2 sous-unités du ribosomes se séparent et se détachent de l’ARNm : c’est la terminaison. Un même ARNm peut être simultanément traduit par plusieurs ribosomes ou polysomes.
