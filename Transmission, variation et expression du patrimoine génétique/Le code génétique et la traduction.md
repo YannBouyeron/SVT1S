@@ -22,7 +22,7 @@ Plusieurs expériences ont été ensuite réalisées avec le même protocole, ma
 <tr><td>Poly-A</td><td>Polymère de lysine = Lys Lys Lys…</td></tr>
 <tr><td>Poly-C</td><td>Polymère de proline = Pro Pro Pro…</td></tr>
 <tr><td>Poly-AC</td><td>Polypeptide constitué de 50 % d’histidine (His) et 50 % thréonine (Thr).</td></tr>
-<tr><td>Poly-UUU</td><td>3 types de polypeptides en proportions égales : poly-Leu, poly-Cys, poly-Val.</td></tr>
+<tr><td>Poly-UUG</td><td>3 types de polypeptides en proportions égales : poly-Leu, poly-Cys, poly-Val.</td></tr>
 </table>
 
 </div>
