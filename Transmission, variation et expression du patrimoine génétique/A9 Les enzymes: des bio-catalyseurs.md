@@ -20,11 +20,12 @@ Les symptômes observés chez certains enfants souffrant de troubles digestifs (
 - 1 comprimé de maxilase (amylase). 
 - Eau distillée. 
 - Scalpel. 
-- Mortier + Pilon. Entonnoir. 
+- Mortier + Pilon. 
+- Entonnoir. 
 - Filtre. 
 - Bain marie à 37°C.
 - 4 Verres de montre. 
-- 6 tubes à essais + support tubes. 
+- 6 Tubes à essais + support tubes. 
 - Pipettes de 1 ml, 5 ml, 10 ml. 
 - Eau iodée. 
 - Liqueur de Fehling. 
