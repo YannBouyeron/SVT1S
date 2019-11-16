@@ -4,7 +4,7 @@ L'intestin grêle est l'organe spécialisé dans l'absorption des nutriments. Au
 
 Les symptômes observés chez certains enfants souffrant de troubles digestifs (amaigrissement, diarrhées, ballonnements) sont dus à une irritation de l'intestin provoquée par une accumulation de sucres complexes (amidon) dans l'intestin. L'inactivité d’une enzyme: l'amylase est suspectée d’être à l'origine de l'accumulation d'amidon et donc des troubles observés.
 
-**<p style="text-align:center;">Montrez que l’ enzyme amylase agit comme un bio-catalyseur nécessaire à l’hydrolyse de l’amidon.</p>**
+**<p style="text-align:center;">Montrez que l’enzyme amylase agit comme un bio-catalyseur nécessaire à l’hydrolyse de l’amidon.</p>**
 
 
 <p align="center">
