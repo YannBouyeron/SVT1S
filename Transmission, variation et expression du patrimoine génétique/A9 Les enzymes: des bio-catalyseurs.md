@@ -22,7 +22,7 @@ Les symptômes observés chez certains enfants souffrant de troubles digestifs (
 - Scalpel. 
 - Mortier + Pilon. Entonnoir. 
 - Filtre. 
-- Bain mari à 37°C.
+- Bain marie à 37°C.
 - 4 Verres de montre. 
 - 6 tubes à essais + support tubes. 
 - Pipettes de 1 ml, 5 ml, 10 ml. 
