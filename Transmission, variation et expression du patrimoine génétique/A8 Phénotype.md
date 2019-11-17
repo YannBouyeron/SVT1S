@@ -30,9 +30,9 @@ L'hémoglobine est une protéine formée par l'association de 4 polypeptides: 2 
 
 <tr>
 
-<td><a href="https://ipfs.io/ipfs/QmQ4tLyKfaMjz3TE6M2SJZjf74gqaFxaxEmHrLCdyZPqEB"><img src="https://ipfs.io/ipfs/QmQ4tLyKfaMjz3TE6M2SJZjf74gqaFxaxEmHrLCdyZPqEB"  width=200></a></td>
+<td><a href="https://ipfs.io/ipfs/QmQ4tLyKfaMjz3TE6M2SJZjf74gqaFxaxEmHrLCdyZPqEB"><img src="https://ipfs.io/ipfs/QmQ4tLyKfaMjz3TE6M2SJZjf74gqaFxaxEmHrLCdyZPqEB"  width=400></a></td>
 
-<td><a href="https://ipfs.io/ipfs/QmUHksUTmJRJRBFpEW9WcYqUi5iaaXLDUzmtxrMSPVVE7J"><img src="https://ipfs.io/ipfs/QmUHksUTmJRJRBFpEW9WcYqUi5iaaXLDUzmtxrMSPVVE7J"  width=220></a></td>
+<td><a href="https://ipfs.io/ipfs/QmUHksUTmJRJRBFpEW9WcYqUi5iaaXLDUzmtxrMSPVVE7J"><img src="https://ipfs.io/ipfs/QmUHksUTmJRJRBFpEW9WcYqUi5iaaXLDUzmtxrMSPVVE7J"  width=440></a></td>
 
 </tr>
 
