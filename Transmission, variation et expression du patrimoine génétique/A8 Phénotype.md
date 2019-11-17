@@ -12,7 +12,7 @@ La drépanocytose affecte l'hémoglobine des globules rouges. Cette maladie gén
 
 <p><br></p>
 
-<p style="text-decoration:underline;">Document A: Fibre de désoxyhémoglobine chez un individu souffrant de drépanocytose</p>
+**<p style="text-decoration:underline;">Document A: Fibre de désoxyhémoglobine chez un individu souffrant de drépanocytose</p>**
 
 L'hémoglobine est une protéine formée par l'association de 4 polypeptides: 2 chaînes d'α-globine et 2 chaînes de β-globine. Elle transporte l'oxygène dans le sang. Chez les individus souffrant de drépanocytose, les molécules d'hémoglobine non liées à l'oxygène (désoxyhémoglobine) sont très peu solubles dans le cytoplasme des globules rouges; elles s'associent entre elles pour former des fibres rigides (polymères d'hémoglobine) s'étendant sur toute la longueur de la cellule . Le globule rouge, déformé par ces structures fibreuses tubulaires prend une forme caractéristique en faucille ou feuille de houx . Ces fibres ne sont jamais observées chez les personnes saines.
 
@@ -20,7 +20,7 @@ L'hémoglobine est une protéine formée par l'association de 4 polypeptides: 2 
 
 <p><br></p>
 
-<p style="text-decoration:underline;">Document B: Globules rouges (hématies) normaux et drépanocytaires observés au microscope électronique.</p>
+**<p style="text-decoration:underline;">Document B: Globules rouges (hématies) normaux et drépanocytaires observés au microscope électronique.</p>**
 
 
 <div align=center>
@@ -43,7 +43,7 @@ Chez les drépanocytaires, les hématies déformées devenues rigides peuvent bl
 
 <p><br></p>
 
-<p style="text-decoration:underline;">Document C: Comparaisons moléculaires.</p>
+**<p style="text-decoration:underline;">Document C: Comparaisons moléculaires.</p>**
 
 **Utilisez les fonctionnalités du logiciel Génigène pour comparer les séquences péptidiques (structures primaires) et pour comparer les séquences nucléotidiques des globines bêta saines et drépanocytaires :**
 
@@ -55,6 +55,6 @@ Ouvrir le logiciel Rastop, aller dans fichier "ouvrir", choisir HbsHbs (hémoglo
 
 <p><br></p>
 
-<p style="text-decoration:underline;">Document D: Facteurs favorisant la crise drépanocytaire.</p>
+**<p style="text-decoration:underline;">Document D: Facteurs favorisant la crise drépanocytaire.</p>**
 
 La déshydratation, fréquente chez le drépanocytaire car il est atteint de polyurie. Le ralentissement de la circulation sanguine, qui favorise une stase. Il faut donc éviter le port de vêtements trop serrés, une mauvaise position, le froid, la fièvre, les infections (les globules blancs en excès limitent la circulation des hématies). Toute consommation d’oxygène supplémentaire: les efforts avec essoufflement, les efforts musculaires concentrés sur un muscle. Tout ce qui dé-sature l’hémoglobine en oxygène : la vie en altitude (éviter les altitudes supérieures à 2 000 m, et même parfois 1 500 m), les voyages en avion, les écarts de température entre l’air et l’eau (piscine, mer), l’alcool, le tabac.
