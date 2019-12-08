@@ -223,3 +223,49 @@ La petite sous-unité du ribosome se place au niveau des 1er codons initiateur 
 Un acide aminé vient se placer en face du codon suivant, selon la correspondance dictée par le code génétique.  Une liaison peptidique s’établit entre la méthionine et le second acide aminé. Le ribosome se déplace sur l’ARNm et passe au codon suivant...et ainsi de suite : c’est l’élongation.
 
 Lorsque le ribosome arrive sur un codon stop, les 2 sous-unités du ribosomes se séparent et se détachent de l’ARNm : c’est la terminaison. Un même ARNm peut être simultanément traduit par plusieurs ribosomes ou polysomes.
+
+
+## **Chapitre 4: Les enzymes, des biomolécules aux propriétés catalytiques.**
+
+Le métabolisme est l’ensemble des réactions chimiques se déroulant dans les cellules. Des protéines particulières: les enzymes permettent le déroulement de ces réactions en relation avec la spécificité cellulaire des cellules dans lesquelles elles sont exrpimées.
+
+<p style="text-decoration:underline"><strong>Les enzymes: des catalyseurs biologiques.</strong></p>
+
+>*Catalyse: Accélération de la vitesse d'une réaction chimique par la présence d'une substance, le catalyseur, qui reste inchangée à la fin de la réaction.*
+
+Les enzymes sont des protéines dotées d’une activité catalytique, ce sont des catalyseurs: dans des conditions de milieu données, elles accélèrent la vitesse d’une réaction chimique de transformation d’un substrat S en un produit P. 
+
+Comme tout catalyseur, une enzyme reste intacte en fin de réaction et elle agit en faible concentration. Les enzymes sont des catalyseurs biologiques: elles agissent dans des conditions physico-chimiques (température, pH...etc) compatibles avec la vie des cellules.
+
+**<p style="text-decoration:underline">La double spécificité des enzymes</p>**
+
+Les enzymes présentent une double spécificité : une spécificité d’action et une spécificité de substrat. 
+
+Une enzyme ne catalyse qu’un seul type de réaction chimique (exemple: l'amylase catalyse uniquement l'hydrolyse de l'amidon): c'est la **spécificité d'action**. 
+
+Une enzyme n’agit que sur un seul substrat (exemple: l'amylase agit uniquement sur l'amidon): c'est la **spécificité de substrat**.
+
+Dans une cellule, de très nombreuses réactions chimiques différentes ont lieu en même temps. Ce sont des réactions en chaîne dans lesquelles les produits de l’une sont le substrat de la suivante. Ces réactions chimiques sont nécessaires pour assurer l’ensemble des fonctions cellulaires et contribuent au phénotype cellulaire.
+
+**<p style="text-decoration:underline">Le mode d’action des enzymes</p>**
+
+L’étude de la [cinétique](https://ipfs.io/ipfs/QmSGUF43rCa5iBFzaa5iBsaFke9G33vGU5LxQXb8kiLprx) d’une réaction enzymatique permet de mesurer la quantité de produit formé (ou la quantité de substrat consommé) en un temps donné et donc de mesurer la vitesse de la réaction. C’est au début de la réaction que la vitesse est la plus rapide et est assimilable à une droite.
+
+On peut mettre en évidence la formation du complexe enzyme-substrat en étudiant les variations de la vitesse initiale d’une réaction (Vi) catalysée par une quantité donnée d’enzyme en présence de concentrations croissantes en substrat [S]. La [courbe](https://ipfs.io/ipfs/QmcgcUK8RYXnkHEvzbe2ZrQddG8bP4p7fwTJ4fRwGZEdgk) représentant Vi en fonction de la concentration en substrat (Vi = f([S])) présente un plateau qui s’explique par l’occupation de tous les sites de liaison du substrat sur l’enzyme à partir d’une concentration donnée en substrat. L’enzyme est alors saturée.
+
+La double spécificité enzymatique implique donc des interactions étroites entre l’enzyme et son substrat. Au cours de la réaction il se forme un complexe enzyme-substrat, dans lequel le substrat est lié de façon transitoire à l’enzyme. L’équation chimique d’une telle réaction peut s’écrire:  E + S →  ES →   E + P
+
+L’étude de la conformation spatiale de plusieurs enzymes montre que, dans le complexe enzyme-substrat, le substrat est lié à l’enzyme au niveau d’un creux ou logette qui forme le site actif de l’enzyme. La conformation spatiale du site actif est généralement complémentaire de celle du substrat: substrat et enzyme s’emboîtent. En outre, le site actif comprend quelques acides aminés particuliers capables de se lier avec le substrat par des liaisons en général non covalentes: ces acides aminés forment le site de reconnaissance et sont à l’origine de la spécificité de substrat. Le site actif contient également des acides aminés essentiels à la réaction enzymatique et sont à l’origine de la spécificité de réaction: ces acides aminés constituent le site catalytique.
+
+**<p style="text-decoration:underline">Importance de la conformation spatiale pour l'activité enzymatique</p>**
+
+Comme toutes les protéines, les enzymes sont des molécules caractérisées par une conformation spatiale complexe et précise. Cette conformation spatiale dépend en premier lieu de l’ordre d'enchaînement des acides aminés qui constituent l’enzyme: c’est la structure primaire de l’enzyme (ou séquence peptidique). Suite aux interactions entre les acides aminés (attirance ou repoussement en fonction des charges ioniques), proches ou éloignés, il peut se former des repliements de la chaîne polypeptidique: c’est la structure secondaire.  
+Enfin, des liaisons non covalentes (liaison hydrogène faible) ou covalentes (ponts di-sulfures) peuvent s’établir entre différents acides aminés et donnent à la molécule une dimension tri-dimensionnelle: c’est la structure tertiaire. Certaines protéines sont constituées de l’assemblage de plusieurs chaînes peptidiques: c’est la structure quaternaire (exemple de l'hémoglobine constituée - chez les humains adultes - de deux globines bêta associées à 2 globines alpha).
+
+Le remplacement d’un seul acide aminé par un autre peut modifier la structure tridimensionnelle de l'enzyme; la complémentarité enzyme / substrat est alors modifiée, ce qui peut diminuer voir bloquer l’action de l'enzyme. 
+
+**<p style="text-decoration:underline">Influence des facteurs du milieu sur l'activité enzymatique</p>**
+
+De faibles températures ralentissent la vitesse de réaction jusqu’à l’inhiber, mais cet effet reste réversible. L’augmentation de la température entraîne l’agitation moléculaire et favorise la rencontre de l’enzyme avec son substrat. Cependant, des températures trop élevées peuvent  modifier ou détruire les liaisons hydrogènes et covalentes et altérer la conformation spatiale d’une enzyme. L’enzyme est alors dénaturée et perd définitivement sa fonction catalytique. Ainsi on peut déterminer pour chaque enzyme une température optimale où la vitesse initiale de la réaction enzymatique est maximum.
+
+De la même manière, l’activité d’une enzyme est maximum pour un pH donné, ou pH optimum. En effet de part et d’autres de ce pH, les charges ioniques des acides aminés sont modifiées ce qui altère les structures secondaire et tertiaire  de l’enzyme et diminue son activité.
