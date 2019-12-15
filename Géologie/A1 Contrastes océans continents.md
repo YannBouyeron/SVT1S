@@ -1,0 +1,63 @@
+# Des contrastes entre les continents et les océans.
+
+Les profils topographiques ([exemple du profil Amérique du Sud - Afrique](https://ipfs.io/ipfs/QmWi2ktHEJN78J1ihru2PmfNZUNz3ECBnh6DSHeLXMhRMN)) mettent en évidence une importantes [variations d’altitudes](https://ipfs.io/ipfs/QmRGkHygTQsjgiYZz8uRqWRRcFy3MUMhwKg41r6a65Pcpw) à la surface de la terre. Les profondeurs (altitudes négatives) les plus importantes s’observent au niveau des fosses océaniques (jusqu’à 10 971 m au niveau de la fosse des Mariannes dans l’océan pacifique), tandis que les altitudes les plus importantes s’observent au niveau des chaînes de montagnes (jusqu’à 8848 m au sommet de l’Everest dans l’Himalaya). 
+
+Les bases de données ETOPO montrent que ces altitudes ne sont pas distribuées uniformément mais présentent au contraire une distribution [bi-modale](https://ipfs.io/ipfs/QmcNZWCtWwiEDmkuR3xwLJuyXEkfK8aZbiqD4G4wjBwfeZ): l'altitude moyenne en milieu continental est de l'ordre de +840 m, alors que en  milieu océanique, elle est de l'ordre de – 3 800 m. L'altitude moyenne de l'ensemble de la croûte terrestre étant de – 2 200 m.
+
+***On cherche à éprouver l’hypothèse selon laquelle cette distribution bimodale des altitudes serait la conséquence d’un contraste géologique entre les croûtes continentale et océanique.***
+
+<p><span style="text-decoration:underline;">Matériel:</span> Échantillons et lame minces de Granite, Basalte, Gabbros, Calcaire, Gneiss. Microscopes polarisants, Fiches de reconnaissance des minéraux, Balances, Éprouvettes.</p>
+
+Chaque groupe étudie 1 roche (Basalte ou Granite ou Gabbros) de manière à déterminer:
+
+- son origine (croûte continentale ou océanique)
+- sa structure
+- sa composition minéralogique
+- sa composition chimique
+- sa masse volumique
+
+**Les résultats de chaque groupe seront ensuite mis en commun pour établir un tableau bilan comparatif des croûtes continentale et océanique.**
+
+**Vous rédigerez une courte synthèse pour discuter de l’hypothèse selon laquelle la distribution bimodale des altitudes serait la conséquence d’un contraste géologique entre les croûtes continentale et océanique.**
+
+<p style="text-decoration:underline;">Document 1: Les trois familles de roches:</p>
+
+<div align=center><a href="https://ipfs.io/ipfs/QmQpAwTnHCMkfmkcZ6cmzhuWSmwquhS9HjWHSpLT8dp8zu"><img src="https://ipfs.io/ipfs/QmQpAwTnHCMkfmkcZ6cmzhuWSmwquhS9HjWHSpLT8dp8zu"  width=800></a></div>
+
+
+<p style="text-decoration:underline;">Document 2: Structure des roches magmatiques:</p>
+
+>Une roche est un assemblage de minéraux. Ces derniers résultent de l'association d'atomes ou d'ions agencés en édifices géométriques ordonnés: les cristaux, qui peuvent être ou non visibles à l'œil nu. 
+
+>Lorsqu'une roche magmatique est entièrement cristallisée on observe des gros cristaux tous visibles à l'œil nu; on parle de structure grenue. Cette structure s’acquiert lors d’un refroidissement lent du magma en profondeur; on parle alors de magmatisme intrusif ou plutonisme. 
+
+>En revanche si la roche magmatique n'est pas entièrement cristallisée, on observe un verre (pâte amorphe) avec des petits cristaux allongés: les microlites non visibles à l'œil nu, avec quelques gros cristaux visibles à l'œil nu: les phénocristaux, on parle alors de structure microlitique. Cette structure s’acquiert lors d’un refroidissement rapide du magma en surface; on parle alors de magmatisme extrusif ou volcanisme.
+
+
+<p style="text-decoration:underline;">Document 3: Protocole de mesure des masses volumiques:</p>
+
+<div align=center><a href="https://ipfs.io/ipfs/QmaLTh5shH4AguprNbwo16nezsoAKaY1ntyjVkpuPhFDT7"><img src="https://ipfs.io/ipfs/QmaLTh5shH4AguprNbwo16nezsoAKaY1ntyjVkpuPhFDT7"  width=900></a></div>
+
+
+<p style="text-decoration:underline;">Document 4: Composition chimique de 3 roches en % de masse:</p>
+
+<div align=center><a href="https://ipfs.io/ipfs/QmdUviWLX19trTFHKbHHcRqPZCLZPwPbTaLqNhDk3aVUnz"><img src="https://ipfs.io/ipfs/QmdUviWLX19trTFHKbHHcRqPZCLZPwPbTaLqNhDk3aVUnz"  width=900></a></div>
+
+
+<p style="text-decoration:underline;">Document 5: Composition chimique de différents minéraux en % de masse:</p>
+
+<div align=center><a href="https://ipfs.io/ipfs/QmYTZF5VuamEGjb4MHELFQsaAK5BqBoX1MHjYZaELmFvT9"><img src="https://ipfs.io/ipfs/QmYTZF5VuamEGjb4MHELFQsaAK5BqBoX1MHjYZaELmFvT9"  width=900></a></div>
+
+
+<p style="text-decoration:underline;">Document 6: Un affleurement des roches du plancher océanique:</p>
+
+
+<div align=center><a href="https://ipfs.io/ipfs/QmdSJEUfjayu4b7spNDfxFjcqumefKiAiJRduBCJibDarc"><img src="https://ipfs.io/ipfs/QmdSJEUfjayu4b7spNDfxFjcqumefKiAiJRduBCJibDarc"  width=900></a></div>
+
+
+<p style="text-decoration:underline;">Document 7: Exemple des roches à l’affleurement en France métropolitaine:</p>
+
+<div align=center><a href="https://ipfs.io/ipfs/QmWTmPXh8LEBdr7L77iSFPnFFu6F9i3HC6Z1rEY3Ce7yHh"><img src="https://ipfs.io/ipfs/QmWTmPXh8LEBdr7L77iSFPnFFu6F9i3HC6Z1rEY3Ce7yHh"  width=900></a></div>
+
+
+
