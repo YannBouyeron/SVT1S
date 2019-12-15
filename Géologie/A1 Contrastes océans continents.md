@@ -6,7 +6,7 @@ Les bases de données ETOPO montrent que ces altitudes ne sont pas distribuées 
 
 ***On cherche à éprouver l’hypothèse selon laquelle cette distribution bimodale des altitudes serait la conséquence d’un contraste géologique entre les croûtes continentale et océanique.***
 
-<p><span style="text-decoration:underline;">Matériel:</span> Échantillons et lame minces de Granite, Basalte, Gabbros, Calcaire, Gneiss. Microscopes polarisants, Fiches de reconnaissance des minéraux, Balances, Éprouvettes.</p>
+**Matériel:** Échantillons et lame minces de Granite, Basalte, Gabbros, Calcaire, Gneiss. Microscopes polarisants, Fiches de reconnaissance des minéraux, Balances, Éprouvettes.
 
 Chaque groupe étudie 1 roche (Basalte ou Granite ou Gabbros) de manière à déterminer:
 
@@ -20,12 +20,12 @@ Chaque groupe étudie 1 roche (Basalte ou Granite ou Gabbros) de manière à dé
 
 **Vous rédigerez une courte synthèse pour discuter de l’hypothèse selon laquelle la distribution bimodale des altitudes serait la conséquence d’un contraste géologique entre les croûtes continentale et océanique.**
 
-<p style="text-decoration:underline;">Document 1: Les trois familles de roches:</p>
+**Document 1: Les trois familles de roches:**
 
 <div align=center><a href="https://ipfs.io/ipfs/QmQpAwTnHCMkfmkcZ6cmzhuWSmwquhS9HjWHSpLT8dp8zu"><img src="https://ipfs.io/ipfs/QmQpAwTnHCMkfmkcZ6cmzhuWSmwquhS9HjWHSpLT8dp8zu"  width=800></a></div>
 
 
-<p style="text-decoration:underline;">Document 2: Structure des roches magmatiques:</p>
+**Document 2: Structure des roches magmatiques:**
 
 >Une roche est un assemblage de minéraux. Ces derniers résultent de l'association d'atomes ou d'ions agencés en édifices géométriques ordonnés: les cristaux, qui peuvent être ou non visibles à l'œil nu. 
 
@@ -34,28 +34,28 @@ Chaque groupe étudie 1 roche (Basalte ou Granite ou Gabbros) de manière à dé
 >En revanche si la roche magmatique n'est pas entièrement cristallisée, on observe un verre (pâte amorphe) avec des petits cristaux allongés: les microlites non visibles à l'œil nu, avec quelques gros cristaux visibles à l'œil nu: les phénocristaux, on parle alors de structure microlitique. Cette structure s’acquiert lors d’un refroidissement rapide du magma en surface; on parle alors de magmatisme extrusif ou volcanisme.
 
 
-<p style="text-decoration:underline;">Document 3: Protocole de mesure des masses volumiques:</p>
+**Document 3: Protocole de mesure des masses volumiques:**
 
 <div align=center><a href="https://ipfs.io/ipfs/QmaLTh5shH4AguprNbwo16nezsoAKaY1ntyjVkpuPhFDT7"><img src="https://ipfs.io/ipfs/QmaLTh5shH4AguprNbwo16nezsoAKaY1ntyjVkpuPhFDT7"  width=900></a></div>
 
 
-<p style="text-decoration:underline;">Document 4: Composition chimique de 3 roches en % de masse:</p>
+**Document 4: Composition chimique de 3 roches en % de masse:**
 
 <div align=center><a href="https://ipfs.io/ipfs/QmdUviWLX19trTFHKbHHcRqPZCLZPwPbTaLqNhDk3aVUnz"><img src="https://ipfs.io/ipfs/QmdUviWLX19trTFHKbHHcRqPZCLZPwPbTaLqNhDk3aVUnz"  width=900></a></div>
 
 
-<p style="text-decoration:underline;">Document 5: Composition chimique de différents minéraux en % de masse:</p>
+**Document 5: Composition chimique de différents minéraux en % de masse:**
 
 <div align=center><a href="https://ipfs.io/ipfs/QmYTZF5VuamEGjb4MHELFQsaAK5BqBoX1MHjYZaELmFvT9"><img src="https://ipfs.io/ipfs/QmYTZF5VuamEGjb4MHELFQsaAK5BqBoX1MHjYZaELmFvT9"  width=900></a></div>
 
 
-<p style="text-decoration:underline;">Document 6: Un affleurement des roches du plancher océanique:</p>
+**Document 6: Un affleurement des roches du plancher océanique:**
 
 
 <div align=center><a href="https://ipfs.io/ipfs/QmdSJEUfjayu4b7spNDfxFjcqumefKiAiJRduBCJibDarc"><img src="https://ipfs.io/ipfs/QmdSJEUfjayu4b7spNDfxFjcqumefKiAiJRduBCJibDarc"  width=900></a></div>
 
 
-<p style="text-decoration:underline;">Document 7: Exemple des roches à l’affleurement en France métropolitaine:</p>
+**Document 7: Exemple des roches à l’affleurement en France métropolitaine:**
 
 <div align=center><a href="https://ipfs.io/ipfs/QmWTmPXh8LEBdr7L77iSFPnFFu6F9i3HC6Z1rEY3Ce7yHh"><img src="https://ipfs.io/ipfs/QmWTmPXh8LEBdr7L77iSFPnFFu6F9i3HC6Z1rEY3Ce7yHh"  width=900></a></div>
 
