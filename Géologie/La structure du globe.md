@@ -99,7 +99,7 @@ Le gradient géothermique n'est pas régulier à l'intérieur de la terre. Dans 
 
 **La convection** est un transfert d'énergie des parties chaudes, profondes, vers les parties froides de la surface impliquant un déplacement de matière (comme on l'observe dans un fluide chauffé par sa base): La matière située en profondeur, très chaude, et moins dense s’élève. En surface, elle s'étale latéralement et se refroidit. Devenue plus dense, elle redescend et plonge en profondeur. (L'ensemble formant une cellule de convection).
 
-<p style="text-decoration:underline;">Modélisation de la convection:</p>
+**Modélisation de la convection:**
 
 <div align=center>
 <img src="https://ipfs.io/ipfs/Qmd5bRPcqCSVGMGLWJZ3Z3wB7x9xaveQfyFAS3U9BBQf21" alt="convection">
@@ -110,9 +110,7 @@ La température de surface augmente autant que la température de fond (les 2 dr
 L'énergie est efficacement transmise du fond vers la surface par convection. La température varie (augmente) peu lorsque la profondeur varie (augmente): le gradient thermique est faible (0,53 °C/cm)
 
 
-
-
-<p style="text-decoration:underline;">Modélisation de la conduction:</p>
+**Modélisation de la conduction:**
 
 <div align=center>
 <img src="https://ipfs.io/ipfs/QmZ9cfDZSFQbPhyPNKrFxfhqpdSxcp8prjaoWZdVUKW4fa" alt="conduction">
@@ -122,7 +120,7 @@ La température de surface augmente beaucoup (a = 0,1420 ) alors que la tempéra
 
 L'énergie est très peu efficacement transmise de la surface vers le fond par conduction. Ainsi, la température varie (augmente) beaucoup lorsque la profondeur varie (diminue): le gradient thermique est élevé (8 °C/cm)
 
-<p style="text-decoration:underline;">Interprétation des variations du gradient géothermique:</p>
+**Interprétation des variations du gradient géothermique:**
 
 Dans la terre, l'énergie thermique est transférée par conduction et ou par convection des parties chaudes profondes vers les parties froides en surface.
 
