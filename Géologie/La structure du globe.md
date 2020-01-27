@@ -2,7 +2,7 @@
 
 La Terre est une planète active. Elle est le siège d’activité magmatique, volcanique, sismique. Cette activité est liée à l’énergie interne de la planète. Le transfert d’énergie au sein des enveloppes internes de la Terre est à l’origine de la tectonique des plaques caractérisée par le déplacement relatif des plaques lithosphériques sur l’asthénosphère.
 
-***<p style="text-align:center; text-decoration:underline;">Comment a-t-on mis en évidence la structure interne de la terre ?</p>***
+***<p align=center>Comment a-t-on mis en évidence la structure interne de la terre ?</p>***
 
 ## I. Des contrastes entre les continents et les océans.
 
