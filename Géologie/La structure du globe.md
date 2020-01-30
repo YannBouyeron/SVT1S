@@ -55,7 +55,7 @@ La vitesse des ondes de volume dépend de:
 
 ### Le modèle PREM
 
-Le modèle PREM (Preliminary reference Earth model) est basé sur l’évolution de la vitesse des ondes de volume en fonction de la profondeur. Ce modèle met enévidence différentes discontinuités (limites séparant des envellopes aux propriétés physiques différentes) ce qui permet d’établir la structure interne de la terre en couches (enveloppes) concentriques.
+Le modèle PREM (Preliminary reference Earth model) est basé sur l’évolution de la vitesse des ondes de volume en fonction de la profondeur. Ce modèle met en évidence différentes discontinuités (limites séparant des envellopes aux propriétés physiques différentes) ce qui permet d’établir la structure interne de la terre en couches (enveloppes) concentriques.
 
 <div align=center>
 <img src="https://ipfs.io/ipfs/QmbCJCsEfj1qSYQafUR9WiR5HhdoBjgMBxGo9NnGJda6YK" alt="PREM" height=320>
@@ -84,11 +84,7 @@ Le modèle PREM (Preliminary reference Earth model) est basé sur l’évolution
 
 ### Le gradient géothermique.
 
-Le gradient géothermique ou géotherme est l’évolution de la température en fonction de la profondeur. Ce gradient est représenté graphiquement "à l’envers" de manière à ce que la profondeur soit en ordonnée (axe vertical ) ce qui est visuellement plus pertinent.
-
-<div align=center>
-<a href="https://ipfs.io/ipfs/QmWZyjzDiMNTDSyU9b94mxXHrT8vMhqiaHetyxS89TKD6s"><img src="https://ipfs.io/ipfs/QmWZyjzDiMNTDSyU9b94mxXHrT8vMhqiaHetyxS89TKD6s" alt="" width=250></a>
-</div>
+Le <a href="https://ipfs.io/ipfs/QmWZyjzDiMNTDSyU9b94mxXHrT8vMhqiaHetyxS89TKD6s">gradient géothermique</a> ou géotherme est l’évolution de la température en fonction de la profondeur. Ce gradient est représenté graphiquement "à l’envers" de manière à ce que la profondeur soit en ordonnée (axe vertical ) ce qui est visuellement plus pertinent.
 
 Le gradient géothermique n'est pas régulier à l'intérieur de la terre. Dans la lithosphère et dans la couche D'' (~ discontinuité de Gutemberg), le gradient géothermique est relativement élevé (la température augmente fortement lorsque la profondeur augmente). Dans l'asthénosphère, le manteau inférieur, et le noyau le gradient géothermique est plus faible (la température augmente peu lorsque la profondeur augmente).
 
