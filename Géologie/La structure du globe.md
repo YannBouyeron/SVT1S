@@ -1,6 +1,6 @@
 # La structure du globe terrestre.
 
-La Terre est une planète active. Elle est le siège d’activité magmatique, volcanique, sismique. Cette activité est liée à l’énergie interne de la planète. Le transfert d’énergie au sein des enveloppes internes de la Terre est à l’origine de la tectonique des plaques caractérisée par le déplacement relatif des plaques lithosphériques sur l’asthénosphère.
+La Terre est une planète active. Elle est le siège d’activités magmatiques, et sismiques. Cette activité est liée à l’énergie interne de la planète. Le transfert d’énergie au sein des enveloppes internes de la Terre est à l’origine de la tectonique des plaques caractérisée par le déplacement relatif des plaques lithosphériques sur l’asthénosphère.
 
 ***<p align=center>Comment a-t-on mis en évidence la structure interne de la terre ?</p>***
 
@@ -62,7 +62,7 @@ Le modèle PREM (Preliminary reference Earth model) est basé sur l’évolution
 </div>
 
 
-- La discontinuité de Moho, mise en évidence par Mohorovicic d’après l’étude du retard des ondes P réfléchies, délimite la croûte du manteau. Cette discontinuité est située à une profondeur de 30 à 75 km sous la croûte continentale, et 6 à 12 km sous la croûte océanique; elle résulte d’une différence pétrographique entre les croûtes (constituée de granites ou de basaltes/gabbros) et le manteau constitué de péridotites.
+- La discontinuité de Moho, mise en évidence par Mohorovicic d’après l’étude du retard des ondes P réfléchies, délimite la croûte du manteau. Cette discontinuité est située à une profondeur de 30 à 75 km sous la croûte continentale, et 6 à 12 km sous la croûte océanique; elle résulte d’une différence pétrographique entre les croûtes (constituées de granites ou de basaltes/gabbros) et le manteau constitué de péridotites.
 
 - La LVZ (low velocity zone) située entre 120 et 200 km de profondeur est caractérisée par un ralentissement des ondes sismiques entre la lithosphère (croûte + manteau supérieur lithosphérique) cassante et l’asténosphère (manteau supérieur asténosphérique) ductile. 
 
