@@ -60,9 +60,9 @@ Cette incorporation de matériaux de plus forte densité que ceux de la croûte 
 
 Les infiltrations d’eau dans la jeune lithosphère encore fracturée induisent une circulation hydrothermale au niveau des fumeurs noirs. Cela provoque l’hydratation des roches qui subissent alors un metamorphisme hydrothermal. Des minéraux hydratés (chlorite et actinote) se forment dans les gabbros (metagabbros, faciès schistes verts); tandis que les péridotites se serpentinisent.
 
-
+<div align=center>
 <a href="https://ipfs.io/ipfs/QmSaBq6tG3qkTuSACw8DQUBDgkrRiKeZUVupTtGeQgZcdk"><img src="https://ipfs.io/ipfs/QmSaBq6tG3qkTuSACw8DQUBDgkrRiKeZUVupTtGeQgZcdk" alt="Evolution LO expansion" width="400"></a>
-
+</div>
 
 
 
