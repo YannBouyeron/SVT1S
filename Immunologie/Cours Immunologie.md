@@ -1,4 +1,4 @@
-# Le fonctionnement du système immunitaire humain. L’immunité innée.
+# Le fonctionnement du système immunitaire humain. 
 
 <p></br></p>
 
