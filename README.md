@@ -1,5 +1,11 @@
 ### Travail pour la semaine:
 
+**27-03-2020:**
+
+- La [correction](https://github.com/YannBouyeron/SVT-TS/blob/master/Immunologie/Correction%20exercice%20conservation%20immunité%20innée.md) de l'exercice sur la conservation de l'immunité innée est disponible.
+
+- La [correction](https://github.com/YannBouyeron/SVT1S/blob/master/Immunologie/A2%20correction.md) de l'activité 2 est disponible..
+
 **Semaine du 23-03-2020:**
 
 - Faire [l'activité 2](https://github.com/YannBouyeron/SVT1S/blob/master/Immunologie/A2.pdf) du thème d'immunologie. **Temps estimé: 1h30**
