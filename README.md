@@ -1,5 +1,9 @@
 ### Travail pour la semaine:
 
+**Semaine du 30-03-2020:**
+
+- Préparer la démarche de l'[activité 3](https://github.com/YannBouyeron/SVT1S/blob/master/Immunologie/A3.md). Votre démarche devra présenter les 3 éléments suivants: Ce que je fais (= ce que je compare) - Comment je le fais (disposition des porduits dans les puits - a schématiser) - Résultats attendus.
+
 **27-03-2020:**
 
 - La [correction](https://github.com/YannBouyeron/SVT-TS/blob/master/Immunologie/Correction%20exercice%20conservation%20immunité%20innée.md) de l'exercice sur la conservation de l'immunité innée est disponible.
