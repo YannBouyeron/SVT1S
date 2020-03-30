@@ -1,14 +1,23 @@
 ### Travail pour la semaine:
 
+______
+
+
 **Semaine du 30-03-2020:**
 
-- Préparer la démarche de l'[activité 3](https://github.com/YannBouyeron/SVT1S/blob/master/Immunologie/A3.md). Votre démarche devra présenter les 3 éléments suivants: Ce que je fais (= ce que je compare) - Comment je le fais (disposition des porduits dans les puits - a schématiser) - Résultats attendus.
+- Préparer la démarche de l'[activité 3](https://github.com/YannBouyeron/SVT1S/blob/master/Immunologie/A3.md). Votre démarche devra présenter les 3 éléments suivants: Ce que je fais (= ce que je compare) - Comment je le fais (disposition des produits dans les puits - à schématiser) - Résultats attendus. **Temps estimé: 15 minutes.** Je posterai les résultats mercredi pour que vous puissiez terminer l'activité.
+
+______
+
 
 **27-03-2020:**
 
 - La [correction](https://github.com/YannBouyeron/SVT-TS/blob/master/Immunologie/Correction%20exercice%20conservation%20immunité%20innée.md) de l'exercice sur la conservation de l'immunité innée est disponible.
 
 - La [correction](https://github.com/YannBouyeron/SVT1S/blob/master/Immunologie/A2%20correction.md) de l'activité 2 est disponible..
+
+______
+
 
 **Semaine du 23-03-2020:**
 
@@ -20,6 +29,8 @@
 
 La correction de l'activité 1 et le début du cours d'immunologie sont disponibles [ici](https://github.com/YannBouyeron/SVT1S/tree/master/Immunologie)
 
+
+______
 
 **Semaine du 16-03-2020:**:
 
