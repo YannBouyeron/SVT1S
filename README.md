@@ -25,6 +25,8 @@ ______
 
 - Faire [l'exercice](https://github.com/YannBouyeron/SVT-TS/blob/master/Immunologie/Exercice%20conservation%20immunité%20innée%20.pdf) sur la conservation de l'immunité innée. **Temps estimé: 1h30**
 
+_______
+
 **20-03-2020:**
 
 La correction de l'activité 1 et le début du cours d'immunologie sont disponibles [ici](https://github.com/YannBouyeron/SVT1S/tree/master/Immunologie)
