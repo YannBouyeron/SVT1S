@@ -3,6 +3,15 @@
 ______
 
 
+**01-04-2020:**
+
+- La [démarche](https://ipfs.io/ipfs/QmSJtL3wqTxg9xCuVtUF1XYycFemHKiBp8aKZnTF8JeAGD) de l'activité 3 d'immunologie est disponible. Je n'ai pas de photo des réslutats, mais on observe 1 seul arc de précipitation entre S et SAB. Il vous reste à terminer l'activité. **Temps estimé: 30 minutes**
+
+
+
+______
+
+
 **Semaine du 30-03-2020:**
 
 - Préparer la démarche de l'[activité 3](https://github.com/YannBouyeron/SVT1S/blob/master/Immunologie/A3.md). Votre démarche devra présenter les 3 éléments suivants: Ce que je fais (= ce que je compare) - Comment je le fais (disposition des produits dans les puits - à schématiser) - Résultats attendus. **Temps estimé: 15 minutes.** Je posterai les résultats mercredi pour que vous puissiez terminer l'activité.
