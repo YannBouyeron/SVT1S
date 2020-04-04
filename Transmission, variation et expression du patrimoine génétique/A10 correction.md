@@ -20,6 +20,7 @@ Les protéines enzymatiques telles que l'amylase sont des catalyseurs biologique
 <a href="https://ipfs.io/ipfs/QmSmhBTZEeGTYJkbRdAFN9aSANF2rquJzoLkxcrwthdGFb"><img src="https://ipfs.io/ipfs/QmSmhBTZEeGTYJkbRdAFN9aSANF2rquJzoLkxcrwthdGFb"></a>
 
 </div>
+
 - Le témoin du tube 6 permettra de vérifier que l’hydrolyse de l’ovalbumine ne peut être spontanée (qu’elle ne soit pas possible sans  enzymes). Il faudrait idéalement faire un autre témoins (amidon + H20).
 
 - Le témoin du tube 5 permet de vérifier que la solution d’amylase n’a pas été contaminée par le glucose des excipients du médicament servant à la préparation de la solution; et le cas contraire (solution d’amylase contenant du glucose) connaître la part de la coloration à la liqueur de Feeling caractérisant cette contamination.
