@@ -58,7 +58,7 @@ L’étude de la cinétique d’une réaction enzymatique permet de mesurer la q
 
 *Plus la concentration en substrat est grande, plus la vitesse initiale est importante mais pour des concentrations en substrat saturantes, la vitesse initiale atteint une valeur maximale appelée vitesse initiale maximale et notée Vmax.*
 
-*La vitesse initiale d’une réaction enzymatique est la quantité de substrats consommés (ou la quantité de produits formés) en fonction du temps. Elle correspond au coefficient directeur (pente)  mesuré e début de réaction (là ou la courbe est encore une droite)*
+*La vitesse initiale d’une réaction enzymatique est la quantité de substrats consommés (ou la quantité de produits formés) en fonction du temps. Elle correspond au coefficient directeur (pente) mesuré en début de réaction (là ou la courbe est encore une droite)*
 
 **Évolution de la vitesse initiale en fonction de la concentration en substrat:**
 
