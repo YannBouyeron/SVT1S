@@ -2,6 +2,14 @@
 
 ______
 
+
+**Semaine du 13-04-2020:**
+
+- Faire [l'activité 5](https://ipfs.io/ipfs/QmPsepBLxVd91jZcvghUCJER8wpQHB3mgRaChBN2JJTfwD) sur la divité des anticorps.
+
+
+______
+
 **10-04-2020:**
 
 - La [correction](https://github.com/YannBouyeron/SVT1S/blob/master/Immunologie/A4%20correction.md) de l'activité 4 est disponible.
