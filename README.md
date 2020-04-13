@@ -5,7 +5,7 @@ ______
 
 **Semaine du 13-04-2020:**
 
-- Faire [l'activité 5](https://ipfs.io/ipfs/QmPsepBLxVd91jZcvghUCJER8wpQHB3mgRaChBN2JJTfwD) sur la divité des anticorps.
+- Faire [l'activité 5](https://ipfs.io/ipfs/QmPsepBLxVd91jZcvghUCJER8wpQHB3mgRaChBN2JJTfwD) sur la diversité des anticorps.
 
 
 ______
