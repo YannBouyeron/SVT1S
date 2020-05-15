@@ -4,6 +4,14 @@
 ______
 
 
+**15-05-2020:**
+
+- La [correction](https://ipfs.io/ipfs/QmfEnaZWvJyWJ1CpGSPjP7XwDHFaPVCCiVHrHk8mrXyxMN) de l'activité 7 sur l'immunité adaptative cellulaire est disponible.
+
+
+______
+
+
 **Semaine du 11-05-2020:**
 
 - Faire [l'activité 7](https://ipfs.io/ipfs/QmRc293839zYzoRBgNm2mKyBseJFYmQCjzm7gmMUMGBaWM) sur la réaction adaptative cellulaire.
