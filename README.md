@@ -4,6 +4,14 @@
 ______
 
 
+**Semaine du 18-05-2020:**
+
+- Faire [les activités 8 et 9](https://ipfs.io/ipfs/QmP6xoFBPBiVLksHuKcJikTCqjLFU75hmLFQV1fDuNHN2W) sur la mémoire immunitaire et la vaccination.
+
+
+______
+
+
 **15-05-2020:**
 
 - La [correction](https://ipfs.io/ipfs/QmfEnaZWvJyWJ1CpGSPjP7XwDHFaPVCCiVHrHk8mrXyxMN) de l'activité 7 sur l'immunité adaptative cellulaire est disponible.
