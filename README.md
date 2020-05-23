@@ -6,6 +6,7 @@ ______
 
 - Le [cours](https://github.com/YannBouyeron/SVT1S/blob/master/Immunologie/Cours%20Immunologie.md) a été mis à jour.
 
+- La [correction](https://ipfs.io/ipfs/QmVeZzZcz5nEuVo2CNLobtxtc9K3sp3D4j1gPLyKZbuCVu) des activités sur la mémoire immunitaire et la vaccination est disponible.
 
 ______
 
