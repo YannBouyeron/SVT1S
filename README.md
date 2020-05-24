@@ -2,6 +2,14 @@
 
 ______
 
+
+**Semaine du 25-05-2020:**
+
+
+- Faire le [sujet type bac](https://ipfs.io/ipfs/QmXaadtx8Puuj3t4oUcQjVGLZHD56T4b6QXaCPtBA9kjVD) sur le thème d'immunologie.
+
+______
+
 **22-05-2020:**
 
 - Le [cours](https://github.com/YannBouyeron/SVT1S/blob/master/Immunologie/Cours%20Immunologie.md) a été mis à jour.
