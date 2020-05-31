@@ -4,6 +4,14 @@
 ______
 
 
+**Semaine du 01-06-2020:**
+
+
+- Nouveau thème: Variation génétique et santé. Faire [l'activité 1](https://ipfs.io/ipfs/QmeEhL3jrcLo4GNsG57S8D7uyrR8ZWAdFbgyqqtRdQQdaS) et [l'activité 2](https://ipfs.io/ipfs/QmcYVt1D1fKVytbPSGj4LB71NrgBTRFLHpBe37PrTbvt6Z) sur la résistance aux antibiotiques.
+
+______
+
+
 **29-05-2020:**
 
 - Les [éléments de correction](https://ipfs.io/ipfs/QmWQ7aYFDbrno4CkhFgmCL9WNm79SKjXUMhkoc5ExbvXQ7) du sujet de bac d'immunologie sont disponibles.
