@@ -4,6 +4,14 @@
 ______
 
 
+**06-06-2020:**
+
+
+- La [correction](https://ipfs.io/ipfs/QmUdc874YnBCYT9vns2BXd8s3pbX7uKtCDVamMqnLQRqxb) des activités sur la résistance aux antibiotiques est disponible.
+
+______
+
+
 **Semaine du 01-06-2020:**
 
 
