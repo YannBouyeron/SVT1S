@@ -7,7 +7,7 @@ ______
 **06-06-2020:**
 
 
-- La [correction](https://ipfs.io/ipfs/QmUdc874YnBCYT9vns2BXd8s3pbX7uKtCDVamMqnLQRqxb) des activités sur la résistance aux antibiotiques est disponible.
+- La [correction](https://ipfs.io/ipfs/QmcxRdZ7DEUuFMWpPwxHoQVu8o6hWzerVedRnGGXvaLSuC) des activités sur la résistance aux antibiotiques est disponible.
 
 ______
 
