@@ -6,6 +6,8 @@ ______
 
 **Semaine du 08-06-2020:**
 
+- Faire [les exercices 6 et 7](https://ipfs.io/ipfs/QmdbzwRt3MoeMkrRUikiyEygWdHEtgeU7GD35BMZqLVdk2) sur la résistance aux antibiotiques.
+
 
 - Faire [l'activité 3](https://ipfs.io/ipfs/QmbGSZqQXsW9d6NAW82i7Tbsd89y7B4HbwrDyCYRW28kD8) et [l'activité 4](https://ipfs.io/ipfs/QmTrkqR9724iSz7kDnzSmvMj7LtJB4C6jhXf9SfSGgKGnh) sur la cancérisation.
 
