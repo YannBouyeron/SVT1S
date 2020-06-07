@@ -4,6 +4,14 @@
 ______
 
 
+**Semaine du 08-06-2020:**
+
+
+- Faire [l'activité 3](https://ipfs.io/ipfs/QmbGSZqQXsW9d6NAW82i7Tbsd89y7B4HbwrDyCYRW28kD8) et [l'activité 4](https://ipfs.io/ipfs/QmTrkqR9724iSz7kDnzSmvMj7LtJB4C6jhXf9SfSGgKGnh) sur la cancérisation.
+
+______
+
+
 **06-06-2020:**
 
 
