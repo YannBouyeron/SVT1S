@@ -1,4 +1,4 @@
-# les caractéristiques d’un cancer.
+# Les caractéristiques d’un cancer.
 
 [Lien vers l’activité](https://ipfs.io/ipfs/QmbGSZqQXsW9d6NAW82i7Tbsd89y7B4HbwrDyCYRW28kD8)
 
