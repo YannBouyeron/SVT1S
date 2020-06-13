@@ -1,5 +1,14 @@
 ### Travail pour la semaine:
 
+______
+
+
+**12-06-2020:**
+
+
+- La [correction](https://ipfs.io/ipfs/QmPKoTqX73DzUSaYj3Z7oxtXx6djemi6uJbm6t9Z97vPzn) des exercices est disponible.
+
+
 
 ______
 
