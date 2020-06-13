@@ -9,6 +9,7 @@ ______
 - La [correction](https://ipfs.io/ipfs/QmPKoTqX73DzUSaYj3Z7oxtXx6djemi6uJbm6t9Z97vPzn) des exercices est disponible.
 
 
+- La [correction](https://ipfs.io/ipfs/QmSyzKZ4BqMWmq3it9VfLpza2WPZVFbG6czk45JA68Pyhi) des activités sur la cancerisation est disponible.
 
 ______
 
