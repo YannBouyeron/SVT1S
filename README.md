@@ -1,5 +1,36 @@
 ### Travail pour la semaine:
 
+
+______
+
+
+**Semaine du 15-06-2020:**
+
+Mutations et santé.
+
+Certaines mutations, héritées ou nouvellement produites, sont responsables de maladie génétique. C’est notamment le cas d’exemples déjà évoqués ou étudiés au cours de l’année: mucoviscidose, phénylcétonurie, drépanocytose..
+
+L’examen des arbres généalogiques familiaux permet de connaître les modes de transmission héréditaire de ces maladies.
+
+Utilisez ce [site](http://svt.tice.ac-orleans-tours.fr/php5/publis/genetique/sommair.htm) pour choisir 3 maladies et déterminer pour chacune d’elle:
+
+- son mode de trasmission: 
+
+	- autosomique, ou gonosomique liée à X, ou gonosomique liée à Y
+
+	- récessif ou dominant
+
+- la probabilité pour les individus évoqués sur le site de donner naissance à un enfant malade
+
+
+Attention: 
+
+- l’écriture des génotypes consiellée par le site: A/B est très maladroite, l’écriture convenable étant A//B
+- le site applique les notions de dominance / récessivité aux allèles, ce qui est aussi très maladroit, ces notions s’appliquent aux phénotypes (en l’occurrence, ici, aux maladies)
+
+
+
+
 ______
 
 
