@@ -6,9 +6,10 @@ ______
 
 **Semaine du 15-06-2020:**
 
+
 Mutations et santé.
 
-Certaines mutations, héritées ou nouvellement produites, sont responsables de maladie génétique. C’est notamment le cas d’exemples déjà évoqués ou étudiés au cours de l’année: mucoviscidose, phénylcétonurie, drépanocytose..
+Certaines mutations, héritées ou nouvellement produites, sont responsables de maladies génétiques. C’est notamment le cas d’exemples déjà évoqués ou étudiés au cours de l’année: mucoviscidose, phénylcétonurie, drépanocytose..
 
 L’examen des arbres généalogiques familiaux permet de connaître les modes de transmission héréditaire de ces maladies.
 
