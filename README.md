@@ -15,7 +15,7 @@ L’examen des arbres généalogiques familiaux permet de connaître les mode
 
 Utilisez ce [site](http://svt.tice.ac-orleans-tours.fr/php5/publis/genetique/sommair.htm) pour choisir 3 maladies et déterminer pour chacune d’elle:
 
-- son mode de trasmission: 
+- son mode de transmission: 
 
 	- autosomique, ou gonosomique liée à X, ou gonosomique liée à Y
 
@@ -26,7 +26,7 @@ Utilisez ce [site](http://svt.tice.ac-orleans-tours.fr/php5/publis/genetique/som
 
 Attention: 
 
-- l’écriture des génotypes consiellée par le site: A/B est très maladroite, l’écriture convenable étant A//B
+- l’écriture des génotypes conseillée par le site: A/B est très maladroite, l’écriture convenable étant A//B
 - le site applique les notions de dominance / récessivité aux allèles, ce qui est aussi très maladroit, ces notions s’appliquent aux phénotypes (en l’occurrence, ici, aux maladies)
 
 
