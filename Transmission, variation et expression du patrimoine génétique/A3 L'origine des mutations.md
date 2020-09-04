@@ -23,7 +23,7 @@ Votre réponse prendra la forme d’une synthèse organisée.
 
 <td><a href="https://ipfs.io/ipfs/QmZCaCNY4ks6xH6amHrMF6fk8FqRQbAMvBrYFPYc78C3rg"><img src="https://ipfs.io/ipfs/QmZCaCNY4ks6xH6amHrMF6fk8FqRQbAMvBrYFPYc78C3rg" alt="genome_trio" width=300></td>
 
-<td><a href="https://ipfs.io/ipfs/QmdhVD7RqGzW5tbLfd8n4VhDpAB9CtT45NNAnSqwivcx96"><img src="https://ipfs.io/ipfs/QmdhVD7RqGzW5tbLfd8n4VhDpAB9CtT45NNAnSqwivcx96" alt="comparaison_sequences" width=300>Les tirets - représentent des nucléotides absents</td> 
+<td><a href="https://ipfs.io/ipfs/QmdhVD7RqGzW5tbLfd8n4VhDpAB9CtT45NNAnSqwivcx96"><img src="https://ipfs.io/ipfs/QmdhVD7RqGzW5tbLfd8n4VhDpAB9CtT45NNAnSqwivcx96" alt="comparaison_sequences" width=300></a></br>Les tirets - représentent des nucléotides absents</td> 
 
 <td><a href="https://ipfs.io/ipfs/QmapsMygVV1ffcJdXpXno7JgtwL7Hv83k9zADRiGKgFetU"><img src="https://ipfs.io/ipfs/QmapsMygVV1ffcJdXpXno7JgtwL7Hv83k9zADRiGKgFetU" alt="uv_levure" width=300></td> 
 
