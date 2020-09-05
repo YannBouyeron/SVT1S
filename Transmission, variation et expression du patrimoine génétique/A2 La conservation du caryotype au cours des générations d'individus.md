@@ -7,7 +7,7 @@ L’ADN, qui constitue les chromosomes, est le support de l’information géné
 
 ## Le cycle de développement de l’espèce humaine
 
-- Indiquer la formule chromosomique de chaque [caryotype humain](https://ipfs.io/ipfs/QmU3JaP3y57WHbS3PnmDTn2TKeVmjjJnYJzcNE6WKsnvjZ ): préciser la [ploïdie](https://ipfs.io/ipfs/QmYVftRkuvJHPdbE9pejb3NmXjakumin7BHterVgceWppj) (2n = diploïde; n = haploïde), et le détail du nombre d'[autosomes](https://ipfs.io/ipfs/QmQFk6tQ6MHfQQimA99x3qf6UnBwmLvggHmHU7hWBgPbkY) et de [gonosomes](https://ipfs.io/ipfs/QmQFk6tQ6MHfQQimA99x3qf6UnBwmLvggHmHU7hWBgPbkY)
+- Indiquer la formule chromosomique de chaque [caryotype humain](https://ipfs.io/ipfs/QmU3JaP3y57WHbS3PnmDTn2TKeVmjjJnYJzcNE6WKsnvjZ ): préciser la [ploïdie](https://ipfs.io/ipfs/QmUTdCgJJzy2ubk3c6xw7odtUNy9XUeD36tS1T8UGVEWFt) (2n = diploïde; n = haploïde), et le détail du nombre d'[autosomes](https://ipfs.io/ipfs/QmQFk6tQ6MHfQQimA99x3qf6UnBwmLvggHmHU7hWBgPbkY) et de [gonosomes](https://ipfs.io/ipfs/QmQFk6tQ6MHfQQimA99x3qf6UnBwmLvggHmHU7hWBgPbkY)
 
 - Schématisez le cycle de développement de l'espèce humaine en reliant par des flèches les éléments suivants:
 
