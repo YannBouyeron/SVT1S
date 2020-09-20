@@ -3,6 +3,12 @@
 
 ______
 
+**Groupe 2: Semaine du 21-09-2020:**
+
+- Poursuivre [l'activité 1](https://github.com/YannBouyeron/SVT1S/blob/master/Transmission%2C%20variation%20et%20expression%20du%20patrimoine%20génétique/A1%20La%20conservation%20du%20caryotype%20et%20de%20l'information%20génétique%20au%20cours%20des%20cycles%20cellulaires.md): faire l'analyse des expériences de Meselson & Stall, ainsi que le schéma de la réplication au niveau moléculaire (2 premières parties de l'activité).
+
+______
+
 
 **Groupe 1: Semaine du 14-09-2020:**
 
