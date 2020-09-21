@@ -27,7 +27,7 @@ Schématiser les étapes de la fécondation en prenant l'exemple théorique d'un
 
 ## Les mécanismes cellulaires de la méiose
 
-Exploitez des [données.json](https://ipfs.io/ipfs/Qmefw7eQGuXvAuNojEAa56x5t38ks8NWZCiDRQerKFs7DY) pour représenter graphiquement [avec python](https://ipfs.io/ipfs/QmRjJPhHqTvZeguYWg6gKTBy69EJkC6GtjZMt4vTvSuzzk) la variation de la quantité d’ADN par cellule au cours de la méiose. [Données .xlsx si vous préférez Excel](https://ipfs.io/ipfs/QmSVTRgGDcuWg8LSkcxY6XnoNWvzosFc8WKakGj1bLXizY)
+Exploitez des [données.json](https://ipfs.io/ipfs/Qmefw7eQGuXvAuNojEAa56x5t38ks8NWZCiDRQerKFs7DY) pour représenter graphiquement [avec python](https://ipfs.io/ipfs/QmcGpY4THzV37MpFEVcoCkAuHbumiL9CwgfXrQqdj7QWFi) la variation de la quantité d’ADN par cellule au cours de la méiose. [Données .xlsx si vous préférez Excel](https://ipfs.io/ipfs/QmSVTRgGDcuWg8LSkcxY6XnoNWvzosFc8WKakGj1bLXizY)
 
 
 Placez dans un ordre logique les [photos](https://ipfs.io/ipfs/QmaLb5TKYTT8fYY4fLbVoD5o8upZmDrEm795FxjoVpBiaP) des différentes étapes de la méiose ou utilisez cette [application](http://viasvt.fr/test-meiose/test-meiose.html). 
