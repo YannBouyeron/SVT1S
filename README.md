@@ -1,6 +1,16 @@
 ### Travail pour la semaine:
 
 
+_____
+
+**Groupe 1: Semaine du 28-09-2020:**
+
+- Terminer [l'activité 2](https://github.com/YannBouyeron/SVT1S/blob/master/Transmission%2C%20variation%20et%20expression%20du%20patrimoine%20génétique/A2%20La%20conservation%20du%20caryotype%20au%20cours%20des%20générations%20d'individus.md)
+
+- Revoir le [cours](https://github.com/YannBouyeron/SVT1S/blob/master/Transmission%2C%20variation%20et%20expression%20du%20patrimoine%20génétique/Cours.md) : Chapitre 1 - A: La transmission de l'information génétique au cours des cycle cellulaires
+
+- **Devoir sur le cycle cellulaire aux différentes ploidies la semaine prochaine.**
+
 ______
 
 **Groupe 2: Semaine du 21-09-2020:**
