@@ -9,7 +9,7 @@ _____
 
 - Revoir le [cours](https://github.com/YannBouyeron/SVT1S/blob/master/Transmission%2C%20variation%20et%20expression%20du%20patrimoine%20génétique/Cours.md) : Chapitre 1 - A: La transmission de l'information génétique au cours des cycle cellulaires
 
-- **Devoir sur le cycle cellulaire aux différentes ploidies la semaine prochaine.**
+- **Devoir sur cette partie du cours la semaine prochaine.**Re travaillez bien la démarche de Meselson et Stall. Apprendre les mecanismes de la mitose et de la réplication. Savoir représenter ou indentifier n'importe quelle phase du cycle cellulaire aux différentes ploidies (n=1, n=2, n=3, 2n=2, 2n=4)
 
 ______
 
