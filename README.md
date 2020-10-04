@@ -3,6 +3,19 @@
 
 _____
 
+**Groupe 2: Semaine du 05-10-2020:**
+
+- Terminer votre [tableau](https://ipfs.io/ipfs/QmRLogFJxiA7QmbXBxoJqxt62VDBAHmvvM4MakX4AsRgye) sur le cycle cellualire aux différentes ploidies.
+
+- Revoir le [cours](https://github.com/YannBouyeron/SVT1S/blob/master/Transmission%2C%20variation%20et%20expression%20du%20patrimoine%20génétique/Cours.md) : Chapitre 1 - A: La transmission de l'information génétique au cours des cycle cellulaires
+
+- **Devoir sur cette partie du cours la semaine prochaine.** Re-travaillez bien la démarche de Meselson et Stall. Apprendre les mecanismes de la mitose et de la réplication. Savoir représenter ou indentifier n'importe quelle phase du cycle cellulaire aux différentes ploidies (n=1, n=2, n=3, 2n=2, 2n=4)
+
+- Faire [l'activité 2](https://github.com/YannBouyeron/SVT1S/blob/master/Transmission%2C%20variation%20et%20expression%20du%20patrimoine%20génétique/A2%20La%20conservation%20du%20caryotype%20au%20cours%20des%20générations%20d'individus.md) sur la conservation du caryotype au cours des générations d'individus
+
+
+_____
+
 **Groupe 1: Semaine du 28-09-2020:**
 
 - Terminer [l'activité 2](https://github.com/YannBouyeron/SVT1S/blob/master/Transmission%2C%20variation%20et%20expression%20du%20patrimoine%20génétique/A2%20La%20conservation%20du%20caryotype%20au%20cours%20des%20générations%20d'individus.md)
