@@ -1,5 +1,15 @@
 ### Travail pour la semaine:
 
+_____
+
+**Groupe 1: Semaine du 12-10-2020:**
+
+- Revoir le [cours](https://github.com/YannBouyeron/SVT1S/blob/master/Transmission%2C%20variation%20et%20expression%20du%20patrimoine%20génétique/Cours.md) : Chapitre 1 - B: La transmission de l’information génétique au cours des générations d’individus. (cette partie du cours correspond à l'activité 2 meiose / fécondation).
+
+- Faire [l'exercice](https://ipfs.io/ipfs/QmPBJNrzBZykenwgUpH3megqeJAEv1VCeVxAuQrpaXZ9Rp) sur la cytodierèse et le cancer.
+
+- Faire [l'exercice](https://ipfs.io/ipfs/QmX2Mi9rEukFcv9PhH3r7LUe4mkL4TSDw6v35fXGTjTcxM) sur la trisomie 21.
+
 
 _____
 
