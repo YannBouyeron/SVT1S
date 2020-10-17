@@ -1,5 +1,21 @@
 ### Travail pour la semaine:
 
+______
+
+**Vacances:**
+
+
+- La [correction](https://github.com/YannBouyeron/SVT1S/blob/master/Transmission%2C%20variation%20et%20expression%20du%20patrimoine%20génétique/correction-BRDU.md) du sujet BRDU est disponible (DS du groupe 1)
+
+
+- La [correction](https://github.com/YannBouyeron/SVT1S/blob/master/Transmission%2C%20variation%20et%20expression%20du%20patrimoine%20génétique/correction-Taylor.md) du sujet Taylor est disponible (DS du groupe 2)
+
+
+- La suite bientôt...
+
+
+
+
 _____
 
 **Groupe 1: Semaine du 12-10-2020:**
