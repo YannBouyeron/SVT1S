@@ -158,7 +158,7 @@ La synthèse des protéines se déroule dans le cytoplasme. Or, dans une cell
 
 ### **I: La transcription**
 
-#### 1: Les caractéristiques de ll’ARN
+#### 1: Les caractéristiques de l’ARN
 
 De même que l’ADN, les ARN sont des acides nucléiques : ils sont constitués d’un enchaînement de nucléotides composés chacun d’un sucre, d’une base azotée et d’un groupement phosphate. Les ARN diffèrent de l’ADN par plusieurs caractéristiques :
 
