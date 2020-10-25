@@ -11,6 +11,8 @@ L’ADN (acide désoxyribonucléique) est une macromolécule constituée de 2 br
 
 *<p align=center>Comment l’ADN est-il transmis au cours des générations cellulaires et au cours des générations d’individus ?</p>*
 
+<a name="mitose"></a>
+
 ### **A: La transmission de l’information génétique au cours des cycles cellulaires.**
 
 Le développement d’un être vivant pluricellulaire à partir d’une cellule oeuf (zygote) nécessite une succession de divisions cellulaires appelées mitoses ainsi que la différenciation des cellules en types cellulaires spécifiques des organes qu’elles constituent. La division cellulaire est donc essentielle à la croissance et au développement de l’organisme, mais aussi au renouvellement des cellules qui le constituent. Il est donc impératif que cette division cellulaire soit une reproduction conforme qui conserve toutes les caractéristiques de la cellule. 
@@ -76,6 +78,8 @@ La réplication de l'ADN permet la production de deux lots d'informations géné
 
 Au cours d'un cycle cellulaire, l'ADN est toujours présent dans la cellule, il présente cependant des états de condensation variables: il est faiblement condensé sous forme de chromatine dans le noyau des cellules interphasiques, et fortement condensé dans les chromosomes au cours de la mitose.
 
+<a name="meiose"></a>
+
 ### **B: La transmission de l’information génétique au cours des générations d’individus.**
 
 #### **1: Le cycle de développement de l’espèce humaine**
@@ -106,6 +110,8 @@ Des anomalies lors de la méiose (disjonction trop tardive des 2 chromosomes hom
 La méiose permet de produire 4 cellules haploïdes à partir d’une cellule diploïde. La fécondation est la fusion de deux cellules haploïdes ce qui produit une cellule diploïde. L’alternance méiose / fécondation assure la stabilité du caryotype au cours des générations d’individus.
 
 La place relative de la méiose et de la fécondation détermine la phase "dominante" du cycle de développement de l’espèce: dans l’espèce humaine, la fécondation a lieu juste après la méiose, la phase diploïde est donc "dominante".
+
+<a name="mutations"></a>
 
 ## **Chapitre 2: Mutations de l’ADN et variabilité génétique.**
 
@@ -152,7 +158,7 @@ La synthèse des protéines se déroule dans le cytoplasme. Or, dans une cell
 
 ### **I: La transcription**
 
-#### 1: Les caractéristiques de l’ARN
+#### 1: Les caractéristiques de ll’ARN
 
 De même que l’ADN, les ARN sont des acides nucléiques : ils sont constitués d’un enchaînement de nucléotides composés chacun d’un sucre, d’une base azotée et d’un groupement phosphate. Les ARN diffèrent de l’ADN par plusieurs caractéristiques :
 
