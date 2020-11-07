@@ -6,7 +6,7 @@ Tous les individus d'une même espèce possèdent le même génome et le même c
 
 ### Les caractéristiques des mutations.
 
-Les mutations sont des modifications de la séquence nucléotidique de l’ADN des gènes. [L’étude des trios](https://ipfs.io/ipfs/QmZCaCNY4ks6xH6amHrMF6fk8FqRQbAMvBrYFPYc78C3rg) et la [comparaison](https://ipfs.io/ipfs/QmdhVD7RqGzW5tbLfd8n4VhDpAB9CtT45NNAnSqwivcx96) des séquences de l’Homme et de l’Orang-Outan montrent qu ‘il existe différents types de mutations.
+Les mutations sont des modifications de la séquence nucléotidique de l’ADN des gènes. [L’étude des trios](https://ipfs.io/ipfs/QmZCaCNY4ks6xH6amHrMF6fk8FqRQbAMvBrYFPYc78C3rg) et la [comparaison](https://ipfs.io/ipfs/QmdhVD7RqGzW5tbLfd8n4VhDpAB9CtT45NNAnSqwivcx96) des séquences de l’Homme et de l’Orang-Outan montrent qu‘il existe différents types de mutations.
 
 On distingue des mutations **ponctuelles** qui n'affectent qu'un seul nucléotide (une seule paire de nucléotides) , et des mutations **étendues** (plus rares) qui affectent plusieurs nucléotides successifs (plusieurs paires de nucléotides successives)
 
@@ -24,7 +24,7 @@ On distingue aussi des mutations par:
 
 	- [exemple](https://ipfs.io/ipfs/QmdhVD7RqGzW5tbLfd8n4VhDpAB9CtT45NNAnSqwivcx96) de la délétion étendue de ATTG en position 39,40,41,42 dans la séquence de l’Orang-Outan, qui peut aussi être considérée comme une insertion étendue de ATTG en position 39,40,41,42 dans la séquence de l’Homme
 
-On constate par ailleurs que si les mutations étendues sont plus rares que les ponctuelles (qui sont elles mêmes déjà relativement rare), la probabilité qu’un nucléotide donné soit affécté par un type de mutation donné est la même pour tous les nucléotides. Les mutations sont donc des événements **rares** et **aléatoires**.
+On constate par ailleurs que si les mutations étendues sont plus rares que les ponctuelles (qui sont elles mêmes déjà relativement rares), la probabilité qu’un nucléotide donné soit affécté par un type de mutation donné est la même pour tous les nucléotides. Les mutations sont donc des événements **rares** et **aléatoires**.
 
 ### L’origine des mutations.
 
