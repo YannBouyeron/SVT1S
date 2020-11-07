@@ -8,38 +8,34 @@ En 1941 Beadle et Tatum ont confirmé, par leurs expériences, la relation gène
 À partir d'un exploitation rigoureuse de l'ensemble des documents montrez qu'il existe un intermédiaire, entre l'ADN et les protéines, que vous identifierez et dont vous préciserez les mécanismes de sa synthèse.
 
 
-<div align=center>
+### Des expériences chez l’acétabulaire.
 
-<table>
+L’acétabulaire est une algue unicellulaire de la mer Méditerranée. Son noyau est situé à la base de la cellule. La jeune acétabulaire est dépourvue de chapeau. La mise en place du chapeau est un processus qui nécessite une importante synthèse protéique.
 
+<a href="https://ipfs.io/ipfs/QmfDbib7ST76cLKLaXTjShNryHqzum2WbqAsKkq6NmTHaE"><img src="https://ipfs.io/ipfs/QmfDbib7ST76cLKLaXTjShNryHqzum2WbqAsKkq6NmTHaE" alt="acetabulaire" width=55%></a>
 
-<tr>
+<a href="https://ipfs.io/ipfs/QmQa8pkErM4p9HtMJGrbgcTvKvoKyYKFJwAyK8SkrMi6Dz"><img src="https://ipfs.io/ipfs/QmQa8pkErM4p9HtMJGrbgcTvKvoKyYKFJwAyK8SkrMi6Dz" alt="acetabulaire" width=55%></a>
 
-<td><a href="https://ipfs.io/ipfs/QmQzh7aWz92Wy9UBPUn3xw6YG98wVpBGVzRVPfp1eMTLqS"><img src="https://ipfs.io/ipfs/QmQzh7aWz92Wy9UBPUn3xw6YG98wVpBGVzRVPfp1eMTLqS" alt="acetabulaire" width=300></td> 
-
-<td><a href="https://ipfs.io/ipfs/QmSycWEqiPffTwQi3zeSTxDBA4UryGBTFxSAUqEw9bgNLB"><img src="https://ipfs.io/ipfs/QmSycWEqiPffTwQi3zeSTxDBA4UryGBTFxSAUqEw9bgNLB" alt="acetabulaire" width=300></td> 
-
-<td><a href="https://ipfs.io/ipfs/QmdasyvUQJSshVX4Kedngcf7dyBBzVn3C67ZnQHnQJbpNE"><img src="https://ipfs.io/ipfs/QmdasyvUQJSshVX4Kedngcf7dyBBzVn3C67ZnQHnQJbpNE" alt="acetabulaire" height=250></td> 
-
-
-</tr>
+<a href="https://ipfs.io/ipfs/QmY333fiNjR8FGgEV4JjLZn8sa1zCugXb9HtPrrjAGEaaW"><img src="https://ipfs.io/ipfs/QmY333fiNjR8FGgEV4JjLZn8sa1zCugXb9HtPrrjAGEaaW" alt="acetabulaire" width=55%></a>
 
 
 
 
-<tr>
-
-<td><a href="https://ipfs.io/ipfs/QmVw8xXNxTvDjgik4hD3aMf2nYgrn9YpkDoRfwMJKGoxWD"><img src="https://ipfs.io/ipfs/QmVw8xXNxTvDjgik4hD3aMf2nYgrn9YpkDoRfwMJKGoxWD" alt="desamination" width=300></td>
-
-<td><a href="https://ipfs.io/ipfs/QmcLKdAZVGTbXvmdg37Y3DFy3pvP8EsSBUju4P7h41KAYF"><img src="https://ipfs.io/ipfs/QmcLKdAZVGTbXvmdg37Y3DFy3pvP8EsSBUju4P7h41KAYF" alt="pcr" width=300></td>
-
-<td><a href="https://ipfs.io/ipfs/QmdoSyJMFbtUvQQyKszNvvUSkNKUAQJzwiwxHinJdcAkka"><img src="https://ipfs.io/ipfs/QmdoSyJMFbtUvQQyKszNvvUSkNKUAQJzwiwxHinJdcAkka" alt="uv_dTT" width=300></td> 
-
-</tr>
+### Une expérience de Pulse-Chase.
 
 
 
+<a href="https://ipfs.io/ipfs/QmfJZMKSm3yD3nf2cwwz6s1mw8JHRskGaEwA1SZ2nJzkge"><img src="https://ipfs.io/ipfs/QmfJZMKSm3yD3nf2cwwz6s1mw8JHRskGaEwA1SZ2nJzkge" alt="pcr" width=100%></a>
 
-</table>
 
-</div>
+
+### Un modèle de la structure de l’ARN.
+
+<a href="https://ipfs.io/ipfs/QmXhW8nojU6krjieDmRU7fbtz55D4Yq3zRvan4yrtijAkw"><img src="https://ipfs.io/ipfs/QmXhW8nojU6krjieDmRU7fbtz55D4Yq3zRvan4yrtijAkw" alt="desamination" width=60%></a>
+
+
+### Le mécanisme de la transcription.
+
+<a href="https://ipfs.io/ipfs/QmP7VvkCvhND1GijGn1aGyGB5RHiQUr22Hi8J7JFfKcEaq"><img src="https://ipfs.io/ipfs/QmP7VvkCvhND1GijGn1aGyGB5RHiQUr22Hi8J7JFfKcEaq" alt="uv_dTT" width=80%></a>
+
+
