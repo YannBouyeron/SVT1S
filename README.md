@@ -2,6 +2,13 @@
 
 ______
 
+- Le [cours](https://github.com/YannBouyeron/SVT1S/blob/master/Transmission%2C%20variation%20et%20expression%20du%20patrimoine%20génétique/Cours.md) est toujours disponible.
+
+- La [correction](https://github.com/YannBouyeron/SVT1S/blob/master/Transmission%2C%20variation%20et%20expression%20du%20patrimoine%20génétique/A3%20Correction.md) de l'activité 2 sur l'origine des mutations est disponible.
+
+
+______
+
 **Vacances:**
 
 
