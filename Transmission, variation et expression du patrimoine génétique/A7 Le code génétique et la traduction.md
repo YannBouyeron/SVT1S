@@ -46,8 +46,9 @@ Le code génétique est un système de correspondance entre les triplets de ribo
 
 **Utilisez le logiciel Génigène pour comparer le code génétique:**
 
-- De deux individus différents d'une même espèce:
-- De deux espèces différentes
+- De deux [individus](https://ipfs.io/ipfs/QmdMouPyHtgPThdqrAV5Ke2sDf2qJhU9wrLmyxuf6Pp4tm) différents d'une même espèce:
+- De deux [espèces](https://ipfs.io/ipfs/QmbpAaAWZEwKv6VKp4i4bWfrd1R4nddSp5xqXVZaQ2g5dh) différentes
+
 
 ## Le mécanisme moléculaire de la traduction.
 
