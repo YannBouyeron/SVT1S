@@ -26,7 +26,7 @@ On en déduit qu'il existe un mécanisme de réparation des dTT actif chez les i
 
 <h4><strong>Comparaison des caractéristiques d’un individu sain et d’un individu XP.</strong></h4>
 
-<div class=center>
+<div align=center>
 <a href="https://ipfs.io/ipfs/QmbYgBuGiZ9ybgCoFqy2NPD8MozsU77C7UmXmwByTvq7ns"><img src="https://ipfs.io/ipfs/QmbYgBuGiZ9ybgCoFqy2NPD8MozsU77C7UmXmwByTvq7ns" alt="phénotype mucoviscidose" width=90%></a>
 </div>
 
