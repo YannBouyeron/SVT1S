@@ -2,6 +2,18 @@
 
 _____
 
+**Mardi 9 Mars:**
+
+- Revoir le cours sur [la mobilité horizontale](https://github.com/YannBouyeron/SVT1S/blob/master/Géologie/La%20mobilité%20horizontale.md)
+
+- Faire les exercices [5 et 6 page 151](https://ipfs.io/ipfs/QmVJfsgvtH6ADtFBcdb41GEjhAC611DoNdZHQsXCSZ6gPU)
+
+
+______
+
+
+_____
+
 - Les corrections des devoirs [mucoviscidose](https://github.com/YannBouyeron/SVT1S/blob/master/Transmission%2C%20variation%20et%20expression%20du%20patrimoine%20génétique/mucoviscidose.md) et [xeroderma](https://github.com/YannBouyeron/SVT1S/blob/master/Transmission%2C%20variation%20et%20expression%20du%20patrimoine%20génétique/xeroderma.md) sont disponibles.
 
 - Le [cours](https://github.com/YannBouyeron/SVT1S/blob/master/Transmission%2C%20variation%20et%20expression%20du%20patrimoine%20génétique/Cours.md) est toujours disponible.
