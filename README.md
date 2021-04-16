@@ -1,5 +1,3 @@
-### Travail pour la semaine:
-
 **Exercices géologie:**
 
 Vous pouvez faire les 2 exercices (Partie 2 Exercice 1, et Partie 2 exercice 2) de cet ancien sujet de bac qui correspond à votre programme actuel de SPE1. [Lien](https://ipfs.io/ipfs/QmY8sqGwiSt9ECnQ7QPtTz4d6tTXwWjo2nmh5kSVYzptYm)
