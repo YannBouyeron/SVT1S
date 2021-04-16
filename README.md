@@ -1,5 +1,13 @@
 ### Travail pour la semaine:
 
+**Exercices géologie:**
+
+Vous pouvez faire les 2 exercices (Partie 2 Exercice 1, et Partie 2 exercice 2) de cet ancien sujet de bac qui correspond à votre programme actuel de SPE1. [Lien](https://ipfs.io/ipfs/QmY8sqGwiSt9ECnQ7QPtTz4d6tTXwWjo2nmh5kSVYzptYm)
+
+Et aussi le Partie 2 exercice 2 sur la formation de la croute archeenne de ce sujet: [Lien](http://svt.ac-besancon.fr/bac-s-2013-emirats-arabes-unis/#22) 
+
+Vous pouvez m'envoyer votre travail sur ecoledirect si vous le souhaitez. Je posterai la correction un peu avant la fin des vacances.
+
 _____
 
 **Vendredi 12 Mars:**
