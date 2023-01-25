@@ -2,7 +2,7 @@ Le fonctionnement du système immunitaire humain. L’immunité innée.
 
 # Activité 4: Structure et spécificité des anticorps - Correction.
 
-Les anticorps ou immunoglobulines sont des molécules solubles qui circulent dans les liquides extra-cellulaires (sang et lymphe); ils apparaissent dans l’organisme environ 4 à 5 jours après un premier contact avec l’antigène: ce sont des effecteurs de l’immunité adaptative. Les anticorps sont spécifiques d’un antigène donné, c’est-à-dire d’une substance capable de déclencher une réponse immunitaire visant à l’éliminer; ils reconnaissent des antigènes solubles (virus ou bactéries) présents dans les liquides extra-cellulaire et les neutralisent sous la forme d’un complexe immun. 
+Les anticorps ou immunoglobulines sont des molécules solubles qui circulent dans les liquides extra-cellulaires (sang et lymphe); ils apparaissent dans l’organisme environ 4 à 5 jours après un premier contact avec l’antigène: ce sont des effecteurs de l’immunité adaptative. Les anticorps sont spécifiques d’un antigène donné, c’est-à-dire d’une substance capable de déclencher une réponse immunitaire visant à l’éliminer; ils reconnaissent des antigènes solubles (virus ou bactéries) présents dans les liquides extra-cellulaires et les neutralisent sous la forme d’un complexe immun. 
 
 <p align=center><strong>Comment expliquer la spécificité des anticorps pour l'antigène ?</strong></p>
 
