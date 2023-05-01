@@ -48,7 +48,6 @@ On considérera que les connaissances sont complètes si les notions associé
 On n’attend pas l’exhaustivité de tous les termes mais que la notion soit comprise et exprimée avec rigueur et précision. On attend au moins un argument pertinent (expérience, observation, exemple...) par idée clé.
 
 
-<p></br></p><p></br></p><p></br></p>
 
 ### Qualité de l’exposé
 
@@ -70,7 +69,6 @@ Remarque importante : il ne s'agit pas d'une liste de critères qui devraient e
 <img src="https://oversas.org/ipfs/QmThvkmKfNPyXJsKsWwnjB75C1VW7QgkTUxNPkNqReGzFD">
 
 
-<p></br></p><p></br></p><p></br></p><p></br></p><p></br></p><p></br></p><p></br></p><p></br></p>
 
 
 
