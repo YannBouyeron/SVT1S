@@ -57,7 +57,7 @@ L’étude de la cinétique d’une réaction enzymatique permet de mesurer la q
 **Influence de la concentration en substrat sur la cinétique d’apparition du produit:**
 
 <p align="center">
-  <img src="https://ipfs.io/ipfs/QmSGUF43rCa5iBFzaa5iBsaFke9G33vGU5LxQXb8kiLprx" width=70%>
+  <img src="https://oversas.org/ipfs/QmSGUF43rCa5iBFzaa5iBsaFke9G33vGU5LxQXb8kiLprx" width=70%>
 </p>
 
 
@@ -74,7 +74,7 @@ L’étude de la cinétique d’une réaction enzymatique permet de mesurer la q
 **Évolution de la vitesse initiale en fonction de la concentration en substrat:**
 
 <p align="center">
-  <img src="https://ipfs.io/ipfs/QmcgcUK8RYXnkHEvzbe2ZrQddG8bP4p7fwTJ4fRwGZEdgk" width=70%>
+  <img src="https://oversas.org/ipfs/QmcgcUK8RYXnkHEvzbe2ZrQddG8bP4p7fwTJ4fRwGZEdgk" width=70%>
 </p>
 
 *On peut représenter la vitesse initiale de la réaction en fonction de la concentration en substrat pour une concentration en enzyme fixe.*
@@ -127,7 +127,7 @@ On montre ainsi que la  vitesse initiale  croît  de moins  en moins  vite lorsq
 **<p align=center>On étudie la cinétique de la catalyse de l'hydrolyse de l'amidon par l'amylase en fonction du pH et de la température.</p>**
 
 <p align="center">
-  <img src="https://ipfs.io/ipfs/QmY1QpXeBmBqPTG6CT9ZK4VzzU6K5KKTpiPyUbLc9JWUwA" width=90%>
+  <img src="https://oversas.org/ipfs/QmY1QpXeBmBqPTG6CT9ZK4VzzU6K5KKTpiPyUbLc9JWUwA" width=90%>
 </p>
 
 
