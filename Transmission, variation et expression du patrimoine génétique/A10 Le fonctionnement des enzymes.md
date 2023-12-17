@@ -102,7 +102,7 @@ On montre ainsi que la  vitesse initiale  croît  de moins  en moins  vite lorsq
 
 <table>
 <tr><th>Température</th><th>pH intestinal</th><th>Séquence amylase</th><th>Modèle moléculaire amylase</th></tr>
-<tr><td align=center>37°C</td><td align=center>6,3</td><td>Fichier Anagene: amylasep.edi</td><td>Fichier Rastop: amylase_pancreatique_enfant.pdb</td></tr>
+<tr><td align=center>37°C</td><td align=center>6,3</td><td>Fichier Anagene: [amylasep.edi](https://github.com/YannBouyeron/SPET/tree/master/edi_pdb_gps)</td><td>Fichier Rastop: [amylase_pancreatique_enfant.pdb](https://github.com/YannBouyeron/SPET/tree/master/edi_pdb_gps)</td></tr>
 </table>
 </div>
 
