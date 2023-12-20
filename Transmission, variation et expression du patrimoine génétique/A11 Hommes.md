@@ -35,7 +35,7 @@ Les arbres phylogénétiques obtenus par cette méthode sont des phénogrammes, 
 
 ### Le séquençage de l’ADN.
 
-Les ADN (mitochondriaux et nucléaires) peuvent être séquencés par différentes méthodes telles que la [méthode de Sanger](https://ipfs.io/ipfs/QmdEAkcKtKitjyrSr3H5K3CEw4Ttg35M3PNvKMDhToceWj) . La séquence complète de l’ADN nucléaire des Hommes modernes a été décryptée en 2003. Les progrès dans les techniques d’extraction et de séquençage de l’ADN fossile ont permis à l’équipe du Neandertal Genome project dirigée par Svante Pääbo, de déterminer en 2010 la séquence brute (2 milliards sur les 3 milliards de nucléotides) de l’ADN nucléaire de néandertaliens de la grotte de Vindija en Croatie, puis en 2014, la séquence complète d’une néandertalienne de la grotte de Denisova en Sibérie. Ces techniques permettent aujourd’hui de comparer les génomes de différents individus de l’espèce Homo sapiens, mais aussi d’autres espèces du genre Homo et Pan (chimpanzés) séquencés depuis.
+Les ADN (mitochondriaux et nucléaires) peuvent être séquencés par différentes méthodes telles que la [méthode de Sanger](https://oversas.org/ipfs/QmdEAkcKtKitjyrSr3H5K3CEw4Ttg35M3PNvKMDhToceWj) . La séquence complète de l’ADN nucléaire des Hommes modernes a été décryptée en 2003. Les progrès dans les techniques d’extraction et de séquençage de l’ADN fossile ont permis à l’équipe du Neandertal Genome project dirigée par Svante Pääbo, de déterminer en 2010 la séquence brute (2 milliards sur les 3 milliards de nucléotides) de l’ADN nucléaire de néandertaliens de la grotte de Vindija en Croatie, puis en 2014, la séquence complète d’une néandertalienne de la grotte de Denisova en Sibérie. Ces techniques permettent aujourd’hui de comparer les génomes de différents individus de l’espèce Homo sapiens, mais aussi d’autres espèces du genre Homo et Pan (chimpanzés) séquencés depuis.
 
 
 ### Comparaisons d’ADN mitochondriaux.
@@ -44,7 +44,7 @@ Les ADN mitochondriaux présentent de nombreux avantages pour les études phylog
 
 **Comparaison de la séquence complète de 53 ADN mitochondriaux extraits d’individus appartenant à de multiples populations humaines:** [Arbre](http://acces.ens-lyon.fr/acces/thematiques/evolution/accompagnement-pedagogique/accompagnement-au-lycee/terminale-2012/un-regard-sur-levolution-de-lhomme/Vue-densemble/arbre-ingman.jpg/image)
 
-**Comparaison des séquences d’ADN mitochondriaux extraits d’individus appartenant aux espèces H. sapiens, H. néenderthalien, H. denisovien:** [Arbre](http://acces.ens-lyon.fr/acces/thematiques/evolution/accompagnement-pedagogique/accompagnement-au-lycee/terminale-2012/un-regard-sur-levolution-de-lhomme/Vue-densemble/Arbre-Primates-mtDNA.jpg/image). Matrice de distances: [png](https://ipfs.io/ipfs/QmUkYPZTrvQVemJaTgxhiV3t7NDgzNMGyFFvDy96k3Gzz4), [html](https://ipfs.io/ipfs/QmYnXBvdpc5etg6WHfTwTRS5JyVtG3YyLd1GeEyzL4K9AU). 
+**Comparaison des séquences d’ADN mitochondriaux extraits d’individus appartenant aux espèces H. sapiens, H. néenderthalien, H. denisovien:** [Arbre](http://acces.ens-lyon.fr/acces/thematiques/evolution/accompagnement-pedagogique/accompagnement-au-lycee/terminale-2012/un-regard-sur-levolution-de-lhomme/Vue-densemble/Arbre-Primates-mtDNA.jpg/image). Matrice de distances: [png](https://oversas.org/ipfs/QmUkYPZTrvQVemJaTgxhiV3t7NDgzNMGyFFvDy96k3Gzz4), [html](https://oversas.org/ipfs/QmYnXBvdpc5etg6WHfTwTRS5JyVtG3YyLd1GeEyzL4K9AU). 
 
 ### Comparaisons d’ADN nucléaires.
 
@@ -88,7 +88,7 @@ Des chercheurs se sont intéressés à un gène en particulier: le gène EPAS1. 
 
 </table></div>
 
-**[Comparaison](https://ipfs.io/ipfs/QmeHrKQmCnB5CTBZCbJkhLcyZzWM1CTVSgu36ojWMawFsH) des [séquences](http://acces.ens-lyon.fr/acces/thematiques/evolution/accompagnement-pedagogique/accompagnement-au-lycee/terminale-2012/un-regard-sur-levolution-de-lhomme/evolution-dans-la-lignee-humaine/quelques-aspects-genetiques-de-levolution-des-populations-humaines-homo-sapiens-sapiens/la-contribution-des-autres-homo-aux-caracteristiques-biologiques-des-populations-d2019homo-sapiens/Denisovien-Neandertalien-Tibetains.edi) du gène ESPA1 extrait d’individus Tibétains, Néenderthaliens, et Denisoviens:**
+**[Comparaison](https://oversas.org/ipfs/QmcwiGRNvRpfS7q2L1NYNUPFXkSBLdkZwP6PSog3cJph6w) des [séquences](http://acces.ens-lyon.fr/acces/thematiques/evolution/accompagnement-pedagogique/accompagnement-au-lycee/terminale-2012/un-regard-sur-levolution-de-lhomme/evolution-dans-la-lignee-humaine/quelques-aspects-genetiques-de-levolution-des-populations-humaines-homo-sapiens-sapiens/la-contribution-des-autres-homo-aux-caracteristiques-biologiques-des-populations-d2019homo-sapiens/Denisovien-Neandertalien-Tibetains.edi) du gène ESPA1 extrait d’individus Tibétains, Néenderthaliens, et Denisoviens:**
 
 
 <div align=center><table>
