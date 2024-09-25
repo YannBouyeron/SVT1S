@@ -45,7 +45,7 @@ Certains phagocytes, tels que les cellules dendritiques, présentent à la surfa
 
 <p></br></p>
 
-<div align=center><a href="https://ipfs.io/ipfs/QmSTT3kESjy9mLibEYHeMYT1SJNSS3Kdw7XU2pLwr5mFR8"><img src="https://ipfs.io/ipfs/QmSTT3kESjy9mLibEYHeMYT1SJNSS3Kdw7XU2pLwr5mFR8" alt="schéma bilan RIA" width=90%></a></div>
+<div align=center><a href="https://oversas.org/ipfs/QmSTT3kESjy9mLibEYHeMYT1SJNSS3Kdw7XU2pLwr5mFR8"><img src="https://oversas.org/ipfs/QmSTT3kESjy9mLibEYHeMYT1SJNSS3Kdw7XU2pLwr5mFR8" alt="schéma bilan RIA" width=90%></a></div>
 
 ## L'immunité adaptative, prolongement de l'immunité innée
  
@@ -121,7 +121,7 @@ Les LT4 clonés se différencient (**différenciation clonale**) alors en:
 ### Schéma bilan.
 
 <div align=center>
-<a href="https://ipfs.io/ipfs/QmStDshiQEThzREqmGskM8E6WLKLZz9y4YuT33U9itvFk8"><img src="https://ipfs.io/ipfs/QmStDshiQEThzREqmGskM8E6WLKLZz9y4YuT33U9itvFk8" width=60%></a></div>
+<a href="https://oversas.org/ipfs/QmStDshiQEThzREqmGskM8E6WLKLZz9y4YuT33U9itvFk8"><img src="https://oversas.org/ipfs/QmStDshiQEThzREqmGskM8E6WLKLZz9y4YuT33U9itvFk8" width=60%></a></div>
 
 *Attention, il y'a une erreur sur le schéma, les LB n'ont pas de recepteur T !!! mais des anticorps membranaires.*
 
