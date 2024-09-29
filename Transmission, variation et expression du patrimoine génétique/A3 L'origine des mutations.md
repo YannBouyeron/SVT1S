@@ -21,11 +21,11 @@ Votre réponse prendra la forme d’une synthèse organisée.
 
 <tr>
 
-<td><a href="https://ipfs.io/ipfs/QmZCaCNY4ks6xH6amHrMF6fk8FqRQbAMvBrYFPYc78C3rg"><img src="https://ipfs.io/ipfs/QmZCaCNY4ks6xH6amHrMF6fk8FqRQbAMvBrYFPYc78C3rg" alt="genome_trio" width=300></td>
+<td><a href="https://oversas.org/ipfs/QmZCaCNY4ks6xH6amHrMF6fk8FqRQbAMvBrYFPYc78C3rg"><img src="https://oversas.org/ipfs/QmZCaCNY4ks6xH6amHrMF6fk8FqRQbAMvBrYFPYc78C3rg" alt="genome_trio" width=300></td>
 
-<td><a href="https://ipfs.io/ipfs/QmdhVD7RqGzW5tbLfd8n4VhDpAB9CtT45NNAnSqwivcx96"><img src="https://ipfs.io/ipfs/QmdhVD7RqGzW5tbLfd8n4VhDpAB9CtT45NNAnSqwivcx96" alt="comparaison_sequences" width=300></a></td> 
+<td><a href="https://oversas.org/ipfs/QmdhVD7RqGzW5tbLfd8n4VhDpAB9CtT45NNAnSqwivcx96"><img src="https://oversas.org/ipfs/QmdhVD7RqGzW5tbLfd8n4VhDpAB9CtT45NNAnSqwivcx96" alt="comparaison_sequences" width=300></a></td> 
 
-<td><a href="https://ipfs.io/ipfs/QmapsMygVV1ffcJdXpXno7JgtwL7Hv83k9zADRiGKgFetU"><img src="https://ipfs.io/ipfs/QmapsMygVV1ffcJdXpXno7JgtwL7Hv83k9zADRiGKgFetU" alt="uv_levure" width=300></td> 
+<td><a href="https://oversas.org/ipfs/QmapsMygVV1ffcJdXpXno7JgtwL7Hv83k9zADRiGKgFetU"><img src="https://oversas.org/ipfs/QmapsMygVV1ffcJdXpXno7JgtwL7Hv83k9zADRiGKgFetU" alt="uv_levure" width=300></td> 
 
 </tr>
 
@@ -34,11 +34,11 @@ Votre réponse prendra la forme d’une synthèse organisée.
 
 <tr>
 
-<td><a href="https://ipfs.io/ipfs/QmS9G1VLkC5oej2QVMAQDLe6FiQr8CM1ApzqbrVHGnzUcj"><img src="https://ipfs.io/ipfs/QmS9G1VLkC5oej2QVMAQDLe6FiQr8CM1ApzqbrVHGnzUcj" alt="desamination" width=300></td>
+<td><a href="https://oversas.org/ipfs/QmS9G1VLkC5oej2QVMAQDLe6FiQr8CM1ApzqbrVHGnzUcj"><img src="https://oversas.org/ipfs/QmS9G1VLkC5oej2QVMAQDLe6FiQr8CM1ApzqbrVHGnzUcj" alt="desamination" width=300></td>
 
-<td><a href="https://ipfs.io/ipfs/QmU94dVKhWHjxaKdJExrkgR6QtKNZwCiZG658KwGPFhGfN"><img src="https://ipfs.io/ipfs/QmU94dVKhWHjxaKdJExrkgR6QtKNZwCiZG658KwGPFhGfN" alt="pcr" width=300></td>
+<td><a href="https://oversas.org/ipfs/QmU94dVKhWHjxaKdJExrkgR6QtKNZwCiZG658KwGPFhGfN"><img src="https://oversas.org/ipfs/QmU94dVKhWHjxaKdJExrkgR6QtKNZwCiZG658KwGPFhGfN" alt="pcr" width=300></td>
 
-<td><a href="https://ipfs.io/ipfs/QmYDJbBzmhTsHqkZvXW5Ho88ywT5t42mvdkmtHamTkDTbq"><img src="https://ipfs.io/ipfs/QmYDJbBzmhTsHqkZvXW5Ho88ywT5t42mvdkmtHamTkDTbq" alt="uv_dTT" width=300></td> 
+<td><a href="https://oversas.org/ipfs/QmYDJbBzmhTsHqkZvXW5Ho88ywT5t42mvdkmtHamTkDTbq"><img src="https://oversas.org/ipfs/QmYDJbBzmhTsHqkZvXW5Ho88ywT5t42mvdkmtHamTkDTbq" alt="uv_dTT" width=300></td> 
 
 </tr>
 
@@ -46,7 +46,7 @@ Votre réponse prendra la forme d’une synthèse organisée.
 
 <tr>
 
-<td><a href="https://ipfs.io/ipfs/QmbFjRwRmbTtxoCD4yfnjUZ7vMS7dbxfNfwsW4Q2qawPyX"><img src="https://ipfs.io/ipfs/QmbFjRwRmbTtxoCD4yfnjUZ7vMS7dbxfNfwsW4Q2qawPyX" alt="uv_homme" width=300></td> 
+<td><a href="https://oversas.org/ipfs/QmbFjRwRmbTtxoCD4yfnjUZ7vMS7dbxfNfwsW4Q2qawPyX"><img src="https://oversas.org/ipfs/QmbFjRwRmbTtxoCD4yfnjUZ7vMS7dbxfNfwsW4Q2qawPyX" alt="uv_homme" width=300></td> 
 
 <td></td> 
 
