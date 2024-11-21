@@ -4,7 +4,7 @@ Le phénotype est l'ensemble des caractères observables d'un individu. Il peut 
 
 La drépanocytose affecte l'hémoglobine des globules rouges. Cette maladie génétique très répandue se manifeste notamment par une anémie chronique, de la fatigue, une pâleur, des crises douloureuses et un risque accru d'infections. Les traitements actuels ont permis d'augmenter grandement l'espérance de vie des patients affectés, mais ils restent limités. La recherche poursuit donc ses efforts pour les améliorer.
 
-***<p class=center>Comment expliquer le phénotype drépanocytaire ?</p>***
+<p align=center><b><i>Comment expliquer le phénotype drépanocytaire ?</i></b></p>
 
 **1: Montrez que le phénotype drépanocytaire peut se définir à [différentes échelles](https://oversas.org/ipfs/QmT5GCV3k7KYzkkGzqf8Y2Q7rnqztjeW4caxhAMZiJfP4g) qui dépendent les une des autres, et expliquez les liens logiques entre ces différentes échelles.**
 
