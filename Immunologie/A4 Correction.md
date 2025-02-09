@@ -1,14 +1,14 @@
-Le fonctionnement du système immunitaire humain. L’immunité innée.
+Le fonctionnement du système immunitaire humain. L’immunité adaptative.
 
 # Activité 4: Structure et spécificité des anticorps - Correction.
 
 Les anticorps ou immunoglobulines sont des molécules solubles qui circulent dans les liquides extra-cellulaires (sang et lymphe); ils apparaissent dans l’organisme environ 4 à 5 jours après un premier contact avec l’antigène: ce sont des effecteurs de l’immunité adaptative. Les anticorps sont spécifiques d’un antigène donné, c’est-à-dire d’une substance capable de déclencher une réponse immunitaire visant à l’éliminer; ils reconnaissent des antigènes solubles (virus ou bactéries) présents dans les liquides extra-cellulaires et les neutralisent sous la forme d’un complexe immun. 
 
-<p align=center><strong>Comment expliquer la spécificité des anticorps pour l'antigène ?</strong></p>
+<p class=center><strong>Comment expliquer la spécificité des anticorps pour l'antigène ?</strong></p>
 
 #### Observation  avec [libmol](https://www.libmol.org) de la structure 3D d’un anticorps anti VIH (anticorps spécifique du VIH).
 
-[Fichier iggtotal.pdb](https://oversas.org/ipfs/Qmb26sYg68LRoovmdcjYxP1dKcCFCcc1E5r2e1TXfyRfcB)
+[Fichier iggtotal.pdb](https://oversas.org/ipfs/Qmc4y5eWPSNyuqF6cndgMpnuoyAm3hbnsiuucumx4dm3g7)
 
 <div align=center><a href="https://oversas.org/ipfs/QmWin3gi7tcPiFHs21j1FrNnxCxvTKdo4618FsaAJU3ctJ"><img src="https://oversas.org/ipfs/QmWin3gi7tcPiFHs21j1FrNnxCxvTKdo4618FsaAJU3ctJ" width=50%></a></div>
 
@@ -19,9 +19,11 @@ Les anticorps sont des protéines constituées de l’assemblage de 4 chaînes p
 
 Chaque chaîne lourde est associée à une chaîne légère. Les deux chaînes lourdes sont associées l’une à l’autre grâce à des ponts di-sulfure (liaisons fortes - covalentes)
 
+<p></br></p>
+
 #### Comparaison des séquences peptidiques des 4 chaines de l’anticorps anti vih avec [genopy](https://github.com/YannBouyeron/genopy).
 
-[Fichier igg-sida-4chaines.edi](https://oversas.org/ipfs/Qmb26sYg68LRoovmdcjYxP1dKcCFCcc1E5r2e1TXfyRfcB)
+[Fichier igg-sida-4chaines.edi](https://oversas.org/ipfs/QmcxwAokdqW9ds2mRoGCgDdqYRpYMStqAeawxkzRWCPtM7)
 
 La [comparaison](https://oversas.org/ipfs/QmU8GofgyBbmBq5zMfbeuLUyyQcSKLUqibmZhqsEbtH2pa) des séquences peptidiques des 2 chaînes lourdes (h et i) d’un même anticorps montre qu’elles sont strictement identiques (même séquence peptidique).
 
@@ -31,7 +33,7 @@ La [comparaison](https://oversas.org/ipfs/QmTJ5Vy7tubirUakh6AsGUYhafvd3yEmGgGtdy
 
 #### Comparaison des séquences peptidiques des chaînes lourdes et légères de différents anticorps (ayant donc des spécificités différentes) avec [genopy](https://github.com/YannBouyeron/genopy).
 
-[Fichier igg-vih-8seq.edi](https://oversas.org/ipfs/Qmb26sYg68LRoovmdcjYxP1dKcCFCcc1E5r2e1TXfyRfcB)
+[Fichier igg-vih-8seq.edi](https://oversas.org/ipfs/QmPRUChrn6eNS4S1QR8PjMxoc8tHgQ6uADCiiiXebSG59D)
 
 La [comparaison](https://oversas.org/ipfs/QmbSMnxoo8MhHgmzCQ57Dy1HzoDpVjMb7hqzgbSGgBc833) des séquences peptidiques de 2 chaînes lourdes de 2 anticorps différents (H_ACY et H_1F58) montre que:
 
@@ -48,21 +50,21 @@ La [comparaison](https://oversas.org/ipfs/QmTWbecEtBgULhK53sDQDeN7Whv2JY7dscmc7P
 
 #### Localisation du déterminant antigénique (épitope) 5.3 de l’antigène p24.
 
-[Fichier sida03°.edi](https://oversas.org/ipfs/Qmb26sYg68LRoovmdcjYxP1dKcCFCcc1E5r2e1TXfyRfcB)
+[Fichier sida03°.edi](https://oversas.org/ipfs/QmWKD8JFGs46n5tXJAHJR38oeMQsZP7tC3HLU2cBN6gvMY)
 
 L’antigène [p24](https://oversas.org/ipfs/QmWTh6Te2SguRxhfsrm3SwCoJe18ZJiFjW6mtuFDQJC5Rf) est une protéine virale exposée sur la surface externe de la membrane du virus VIH. Le [déterminant antigénique 5.3](https://oversas.org/ipfs/QmWTh6Te2SguRxhfsrm3SwCoJe18ZJiFjW6mtuFDQJC5Rf) est un motif (région) au sein de la protéine p24. [L’alignement](https://oversas.org/ipfs/QmTBgGdoHVBmjp5DkHs6a1sbLR81e7QUhX8BTuXusMSGgm) de p24 avec son déterminant antigénique 5.3 permet de localiser la position du déterminant antigénique 5.3 au sein de l’antigène p24; on observe ainsi que le déterminant antigénique 5.3 représente les acides aminés 75 à 85 de l’antigène p24.
 
-[Fichier p24.pdb](https://oversas.org/ipfs/Qmb26sYg68LRoovmdcjYxP1dKcCFCcc1E5r2e1TXfyRfcB)
+[Fichier p24.pdb](https://oversas.org/ipfs/QmaPau6gyNZ8pctsRqhY8Wc25wjKszbHdWW1t2ysZnBZsJ)
 
 Cela permet de localiser visuellement le déterminant antigénique 5.3 (représenté ici en sphères rouges) au sein de l’antigène p24 avec [libmol](https://www.libmol.org):
 
-<div align=center><a href="https://oversas.org/ipfs/QmavkLJz2duWe7U1Vx8QKnHRqhgUyPDQxa7zYNAVeb5x6j"><img src="https://oversas.org/ipfs/QmavkLJz2duWe7U1Vx8QKnHRqhgUyPDQxa7zYNAVeb5x6j" width=50%></a></div>
+<div align=center><a href="https://oversas.org/ipfs/QmavkLJz2duWe7U1Vx8QKnHRqhgUyPDQxa7zYNAVeb5x6j"><img src="https://oversas.org/ipfs/QmavkLJz2duWe7U1Vx8QKnHRqhgUyPDQxa7zYNAVeb5x6j" width=70%></a></div>
 
 #### Comparaison de la spécificité des Anticorps 1 et 2 avec [libmol](https://www.libmol.org)
 
-[Fichier P24_Ac1.pdb](https://oversas.org/ipfs/Qmb26sYg68LRoovmdcjYxP1dKcCFCcc1E5r2e1TXfyRfcB)
+[Fichier P24_Ac1.pdb](https://oversas.org/ipfs/QmbwEkB2atLiaDUr4xCE4utWtrJVLQcFpXNZcnteQ15mYc)
 
-[Fichier P24_Ac2.pdb](https://oversas.org/ipfs/Qmb26sYg68LRoovmdcjYxP1dKcCFCcc1E5r2e1TXfyRfcB)
+[Fichier P24_Ac2.pdb](https://oversas.org/ipfs/QmW2HsHbCLsZ6eLgBPZhLnZ5c3ajGiQnuUQVBswxE8P6Uw)
 
 Sur les représentations ci dessous, les anticorps ne sont pas entiers (pour chaque anticorps on a représenté uniquement 1 bras du "Y", soit une portion de chaîne lourde associée à sa chaîne légère). Les régions variables de chaque chaîne (acides aminés 1 à 100) ont été représentées en sphères (bleues ou jaunes). L’antigène p24 et en rouge. Son déterminant antigénique 5.3 est en sphères (rouges).
 
@@ -106,6 +108,6 @@ Différents anticorps (ayant des spécificités différentes) peuvent donc recon
 
 
 
-<div align=center><a href="https://oversas.org/ipfs/QmeuyKdMu1zJ9MZDyWB7VXB9VpUHDZ4kQGXe4Ck5bAkcpk"><img src="https://oversas.org/ipfs/QmeuyKdMu1zJ9MZDyWB7VXB9VpUHDZ4kQGXe4Ck5bAkcpk" alt="structure 3D anticorps" width=70%></a></div>
+<div align=center><a href="https://oversas.org/ipfs/QmeuyKdMu1zJ9MZDyWB7VXB9VpUHDZ4kQGXe4Ck5bAkcpk"><img src="https://oversas.org/ipfs/QmeuyKdMu1zJ9MZDyWB7VXB9VpUHDZ4kQGXe4Ck5bAkcpk" alt="structure 3D anticorps" width=60%></a></div>
 
-*<p align=center>Schéma de la structure d’un anticorps.</p>*
+*<p class=center>Schéma de la structure d’un anticorps.</p>*
